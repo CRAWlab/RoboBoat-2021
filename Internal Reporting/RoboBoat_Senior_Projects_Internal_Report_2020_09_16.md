@@ -88,7 +88,7 @@ To define specific metrics for success.
         - Depending on the rules this could be anything from a hook to a servo with a pin/channel mechanism as shown in Figure 1.
 
 <p align="center">
-    <img width="80%" src="figures/mechanism_for_pickup_drop.png" alt="Example of a Pick Up/Drop Off Mechanism"/><br>
+    <img width="80%" src="figures/mechanism_for_pickup_drop.PNG" alt="Example of a Pick Up/Drop Off Mechanism"/><br>
     <strong>Figure 1: Example of a Pick Up/Drop Off Mechanism</strong>
 </p>
 
