@@ -20,15 +20,15 @@ To define specific metrics for success.
 
 1. Overall Point Goal Success: One of our metrics for success was to define in point goals what it looked like for us to win the competition with the integration of the drone. We looked at what tasks remained the same from 2017-2020 and evaluated end result score sheets for the competing teams. We took averages of points from the first place winner per each task over 2/3/and 4 competitions where information was available. For the points that stayed the same, we recorded those.
 
-    a) WEIGHT/THRUST - approximate increase of 11 lbs from enclosure and 4 lbs from the drone
+    * a) WEIGHT/THRUST - approximate increase of 11 lbs from enclosure and 4 lbs from the drone
         - 74 points from weight
         - 14 points from thrust
         - 88 total points
 
-    b) MANDATORY/AUTONOMOUS NAVIGATION CHANEL
+    * b) MANDATORY/AUTONOMOUS NAVIGATION CHANEL
         - 100 points
 
-    c) SPEED CHALLENGE
+    * c) SPEED CHALLENGE
         - 210 < points < 227 for fastest time
             -- the fastest time average was 31 seconds with a min = 23 and max = 40.
         - 250 additional points for fastest time
@@ -36,55 +36,58 @@ To define specific metrics for success.
         - 100 points for circle the blue buoy
         - 100 points for exited through the gates
 
-    d) UAV/ASV COLLABORATION OPERATIONS
+    * d) UAV/ASV COLLABORATION OPERATIONS
         - 225 points to launch
         - 250 points to land
         - 750 perfect operation (I.E: raise the flag/docking)
 
-    e) OBSTACLE FIELD/FIND THE PATH
+    * e) OBSTACLE FIELD/FIND THE PATH
         - 100 Enter obstacle field
         - 200 Circle can buoy
         - 200 Exit obstacle field
         - 200 no buoys hit
         - 400 Perfect
 
-    f) DELIVERABLES
+    * f) DELIVERABLES
         - 86% of total available points for the technical design report (average of first place percentages over 3 years)
         - 82% of total available points for Website (average of first place over 3 years)
         - 10 points for team uniform (average of first place over 3 years)
         - 67.5% of the total available points for craftsmanship (average of first place over 3 years)
         - 94% of the total available points for Video Presentation (average of first place over 3 years)
+        
+    * g) 3,223 points per course run, plus points gained from deliverables.
+
 
 2. Drone Operation Success:
 
-    a) Have a successful launch and landing
+    * a) Have a successful launch and landing
         - Take off from helipad on the boat autonomously without tipping or falling into the water
         - Maintain stable flight while launching
         - Maintain stable flight while landing and land back on the pre-determined location.
 
-    b) Capture stable/clear Picture of the course
+    * b) Capture stable/clear Picture of the course
         - Pixel count - Minimum of 8 Mega Pixels
 
-    c) Map course
+    * c) Map course
         - Within 1 meter of accuracy at worst
-        -- With this we believe that if we get the mapping within 1 meter of accuracy, the camera vision and LiDAR on the boat can will provide the system with more precision while navigating around objects. The goal for the map is to have something useful and accurate enough so that the boat can get to from task to task while navigating the entire course.
+        - With this we believe that if we get the mapping within 1 meter of accuracy, the camera vision and LiDAR on the boat can will provide the system with more precision while navigating around objects. The goal for the map is to have something useful and accurate enough so that the boat can get to from task to task while navigating the entire course.
         - The drone needs to be a high enough above the water to produce an image of a 250x400 ft area
         - Interpret the image produced by the drone through a python and ROS compatible library. This will most likely be OpenCV.
 
-    d) Drone has to be able to maintain flight path within a pre-defined geo-fence.
+    * d) Drone has to be able to maintain flight path within a pre-defined geo-fence.
         - Left, Right, Up, Down in a pre-defined area
         - Meet all competition specs (geo-fence, kill switch, predefined "home")
 
-    e) Battery
+    * e) Battery
         - Average of 30 minutes of flight time at max power consumption
 
-    f) The drone should have enough static stability to stay on the helipad while the boat is moving through the water until the drone is deployed.
+    * f) The drone should have enough static stability to stay on the helipad while the boat is moving through the water until the drone is deployed.
         - something should be on the top of the helipad to increase friction between the feet of the drone and the helipad. This could be done with sandpaper, rubber, or velcro.
 
-    g) What is an acceptable payload baseline?
+    * g) What is an acceptable payload baseline?
         - 2:1 TWR would be fine for this application unless rules specify the need for a heavy payload.
 
-    h) Have the ability to pick up and drop off objects
+    * h) Have the ability to pick up and drop off objects
         - Depending on the rules this could be anything from a hook to a servo with a pin/channel mechanism as shown in Figure 1.
 
 <p align="center">
@@ -95,12 +98,12 @@ To define specific metrics for success.
 
 3. Path Navigation Success:
 
-    a) Know the position of the boat relative to the course within a 3 meter accuracy.
+    * a) Know the position of the boat relative to the course within a 3 meter accuracy.
         - Know the position of the boat relative to the UAV
-    b) How far in front of the ASV does the UAV need to be for the UAV to be in the line of sight of the ASV. (if in the line of sight of the ASV, better accuracy can theoretically be achieved by using this distance as a metric to adjust GPS coordinates and buoy locations)
-    c) Know the distance between the boat and the buoys within a defined accuracy.
-    d) Need to have a defined distance within an accuracy of 1 ft on either side of the boat while navigating through the Autonomous Navigation channel.
-    e) ASV should remain in place at a stand still within a 0.5 foot of error on either side.
+    * b) How far in front of the ASV does the UAV need to be for the UAV to be in the line of sight of the ASV. (if in the line of sight of the ASV, better accuracy can theoretically be achieved by using this distance as a metric to adjust GPS coordinates and buoy locations)
+    * c) Know the distance between the boat and the buoys within a defined accuracy.
+    * d) Need to have a defined distance within an accuracy of 1 ft on either side of the boat while navigating through the Autonomous Navigation channel.
+    * e) ASV should remain in place at a stand still within a 0.5 foot of error on either side.
 
 
 ## Questions/Comments
