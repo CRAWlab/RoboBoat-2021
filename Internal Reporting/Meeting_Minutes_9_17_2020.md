@@ -13,18 +13,18 @@ U.A.V. Team Members:
 	* Could do basic trig calculations using distance to get a better idea of the dimensions that could be captured at a defined distance. 
 
 2) Camera Calibration 
-	* QR codes and April tags are used for this specifically and would be a good area of research
+	* "QR" codes (Aruco Codes) and April tags are used for this specifically and would be a good area of research 
 
 3) Mapping 
 	* Planer map could be G-mapping 
 	* Research - How do we draw the map
 	* Research - How do we figure out where the UAV is relative to the map, where the ASV is relative to the map, and where both are relative to each other.
-	* Research -  S.L.A.M. algorithms that can be used in ROS
+	* Research -  S.L.A.M. algorithms that can be used in ROS 
 
 4) Other research to be done for UAV
 	* Rasberry pie hat look into tutorials for this
-	* Research possible other distance sensing tools besides cameras
-	* Research and begin practicing how to use MAVROS 
+	* Research possible other distance sensing tools besides cameras (LiDAR, Sonar, etc.) 
+	* Research and begin practicing how to use MAVROS, rtabmap_ROS, Docker, and apriltags/aruco tags. 
 
 5) Competition
 	* Will have a test day or two, first test run or day will most likely be able to use remote control, then fully autonomous from that point on throughout competition.
