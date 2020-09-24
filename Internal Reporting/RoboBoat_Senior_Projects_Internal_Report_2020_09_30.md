@@ -18,7 +18,9 @@ To define specific metrics for success.
 
 ## Recent Results Overview
 
-1. 
+1. QR code and Barcode localization
+    * Localization processes can be used to identify QR codes or Barcodes in an image. This may be a useful wau to detect the distance between the UAV and ASV. During the localization process a geometric square, "code candidate box", is overlaid the detected QR or Bar code. I believe a distance model could be constructed through machine learning using a simple regression formula. This model could be used to calculate distance depending on the pixel count of the "code candidate box". There are many localization algorithms that are available.
+    * 
 
 2. 
 
