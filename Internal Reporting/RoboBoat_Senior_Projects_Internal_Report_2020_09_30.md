@@ -19,10 +19,11 @@ To define specific metrics for success.
 ## Recent Results Overview
 
 1. QR code and Barcode localization
-    * Localization processes can be used to identify QR codes or Barcodes in an image. This may be a useful way to detect the distance between the UAV and ASV. During the localization process a geometric square, "code candidate box", is overlaid the detected QR or Bar code. I believe a distance model could be constructed through machine learning using a simple regression formula. This model could be used to calculate distance depending on the pixel count of the "code candidate box". There are many localization algorithms that are available.
-    * 
+    * Localization processes can be used to identify QR codes or Barcodes in an image. This may be a useful way to detect the distance between the UAV and ASV. During the localization process a geometric square, "code candidate box", is overlaid the detected QR or Bar code. I believe a distance model could be constructed through machine learning using a simple regression formula. This model could be used to calculate distance depending on the pixel count of the "code candidate box". There are many localization algorithms that are available. - JS
+    
 
-2. 
+2. ArUco Marker Detection
+	* OpenCV has a ton of information on this. These ArUco Markers can be used for pose estimation in navigation. To me, from what I've read so far, it seems that this this would be a solid way to go if we are going to have a camera on the UAV. - JS
 
 
 ## Questions/Comments
