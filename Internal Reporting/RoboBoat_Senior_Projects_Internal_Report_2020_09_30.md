@@ -29,9 +29,17 @@ To complete a working draft of design tools.
 
 3. The [House of Quality, Gantt chart, and function tree](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools) are ready for review. The specification sheet is being worked on, but is not complete. We are still determining bounds for some aspects of the UAV and the required components.
 
+
 4. Compiled a list of potential UAVs
 	* The potential UAVs have been put on a list on the GitHub Project board for us to reference as the project develops. The UAVs vary in size, price, and included parts such as sensors, gps, and controllers. Some of the UAVs come ready-to-fly while others are near-ready-to-fly. 
 
+
+5. Mapping Possibilities
+	* GMapping creates a 2-D occupancy grid map. It has limits with the range of the laser, how long the map updates, and how many points are needed to build an accurate map. As Dr. Vaughan stated in the pervious meeting; there are better options than this type of mapping, but there is a lot of resources for this type of mapping. As a team it was decided that this type of mapping is not the route to take due to the fact that there are better options. - BW
+	
+	* With Sonar Mapping, Ultrasonic Sensors are used to emit a soundwave and recive the soundwave. This can create a 3-D map, but has its limits in the range, temperature levels and surface reflection of the sound. There are different ranges in frequency depending on what is used, but the most common frequency range is 30-80 kHZ for a long range distance and the frequency can go up to 500 kHz in some applications. The beacon (ALP-365 Beacon) that is used in the competeition for the RoboBoat competition uses a frequency between 25 - 40 kHz in .5 kHz increments. That is about as far as I was able to get, but from what I have found it appears this may not be an option to explore much further. - BW
+	
+	
 ## Questions/Comments
 Would one way to achieve our end goal of aiding the boat in navigating the course be to use the drone as "pin" for the boat to follow like humans do when someone drops a pin on their location?
 
@@ -45,6 +53,8 @@ Would one way to achieve our end goal of aiding the boat in navigating the cours
 ### What are your next steps?
 1. I (Brennan) plan to continue diving into ROS, specifically mavros, to learn how to control a UAV. I have found some files for the px4 vision (our UAV is not determined), but the knowledge gained by using it as the model will be able to apply to the UAV that we choose.  
 2. I (Nathan) plan to work on an online course which will include learning the basic control of a drone, drone exploration, and drone navigation. 
+3. I (Ben) plan to get into understanding the basics of ROS and I will be helping out wherever I am needed. I (as well as the rest of the team) will also be working on adding more to the Specification Sheet and the Evaluation Martix.  
+
 
 ### What work do you expect to have done by next report? What results to you expect?
 
