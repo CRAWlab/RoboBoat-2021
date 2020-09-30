@@ -15,26 +15,33 @@ Integrate a drone to the RoboBoat to increase the points gained while completing
 
 ## Short-term Goal
 To define specific metrics for success.
+To complete a working draft of design tools.
 
 ## Recent Results Overview
 
 1. QR code and Barcode localization
     * Localization processes can be used to identify QR codes or Barcodes in an image. This may be a useful way to detect the distance between the UAV and ASV. During the localization process a geometric square, "code candidate box", is overlaid the detected QR or Bar code. I believe a distance model could be constructed through machine learning using a simple regression formula. This model could be used to calculate distance depending on the pixel count of the "code candidate box". There are many localization algorithms that are available. - JS
-    
+
 
 2. ArUco Marker Detection
 	* OpenCV has a ton of information on this. These ArUco Markers can be used for pose estimation in navigation. To me, from what I've read so far, it seems that this this would be a solid way to go if we are going to have a camera on the UAV. - JS
 
 
-## Questions/Comments
+3. The [House of Quality, Gantt chart, and function tree](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools) are ready for review. The specification sheet is being worked on, but is not complete. We are still determining bounds for some aspects of the UAV and the required components.
 
+
+## Questions/Comments
+Would one way to achieve our end goal of aiding the boat in navigating the course be to use the drone as "pin" for the boat to follow like humans do when someone drops a pin on their location?
 
 
 ## Plan for the next two weeks
+1. We are still waiting to register with RoboNation.
+2. Finish the specification sheet.
+3. Start compiling a morphological chart, and begin determining the "best" setup for our specific tasks.
 
 
 ### What are your next steps?
-
+1. I (Brennan) plan to continue diving into ROS, specifically mavros, to learn how to control a UAV. I have found some files for the px4 vision (our UAV is not determined), but the knowledge gained by using it as the model will be able to apply to the UAV that we choose.  
 
 ### What work do you expect to have done by next report? What results to you expect?
 
