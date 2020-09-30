@@ -29,6 +29,8 @@ To complete a working draft of design tools.
 
 3. The [House of Quality, Gantt chart, and function tree](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools) are ready for review. The specification sheet is being worked on, but is not complete. We are still determining bounds for some aspects of the UAV and the required components.
 
+4. Compiled a list of potential UAVs
+	* The potential UAVs have been put on a list on the GitHub Project board for us to reference as the project develops. The UAVs vary in size, price, and included parts such as sensors, gps, and controllers. Some of the UAVs come ready-to-fly while others are near-ready-to-fly. 
 
 ## Questions/Comments
 Would one way to achieve our end goal of aiding the boat in navigating the course be to use the drone as "pin" for the boat to follow like humans do when someone drops a pin on their location?
@@ -42,6 +44,7 @@ Would one way to achieve our end goal of aiding the boat in navigating the cours
 
 ### What are your next steps?
 1. I (Brennan) plan to continue diving into ROS, specifically mavros, to learn how to control a UAV. I have found some files for the px4 vision (our UAV is not determined), but the knowledge gained by using it as the model will be able to apply to the UAV that we choose.  
+2. I (Nathan) plan to work on an online course which will include learning the basic control of a drone, drone exploration, and drone navigation. 
 
 ### What work do you expect to have done by next report? What results to you expect?
 
