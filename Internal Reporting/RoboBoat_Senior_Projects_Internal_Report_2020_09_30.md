@@ -45,7 +45,7 @@ To complete a working draft of design tools.
 
 
 5. Compiled a list of potential UAVs
-	* The potential UAVs have been put on a list on the GitHub Project board for us to reference as the project develops. The UAVs vary in size, price, and included parts such as sensors, gps, and controllers. Some of the UAVs come ready-to-fly while others are near-ready-to-fly.
+	* The potential UAVs have been put on a list on the GitHub Project board for us to reference as the project develops. The UAVs vary in size, price, and included parts such as sensors, GPS, and controllers. Some of the UAVs come ready-to-fly while others are near-ready-to-fly.
 
 
 6. Mapping Possibilities
@@ -53,7 +53,9 @@ To complete a working draft of design tools.
 
 	* With Sonar Mapping, Ultrasonic Sensors are used to emit a soundwave and receive the soundwave. This can create a 3-D map, but has its limits in the range, temperature levels and surface reflection of the sound. There are different ranges in frequency depending on what is used, but the most common frequency range is 30-80 kHZ for a long range distance and the frequency can go up to 500 kHz in some applications. The beacon (ALP-365 Beacon) that is used in the competition for the RoboBoat competition uses a frequency between 25 - 40 kHz in .5 kHz increments. That is about as far as I was able to get, but from what I have found it appears this may not be an option to explore much further. **BW**
 
-	* Other mapping possibilities that were researched include RTAB-Map and Hector mapping. RTAB-Map can subscribe to either stereo camera or Lidar data. The Hector mapping package subscribes only to Lidar data, and it leverages the high update rate of most modern Lidar systems. Both of these mapping packages can utilize the loop closure method that detects when the sensor has made it back to its starting position. By recognizing when it reaches its starting position, the algorithm is able to make corrections to its recorded map which increases the maps accuracy. I have a research paper by MIT that used mutliple drones and a lidar system for mapping that integrated the maps real time. They refer to the package as C-SLAM in the paper, but I have not been able to find anymore information on this SLAM package. **NM**
+	* Other mapping possibilities that were researched include RTAB-Map and Hector mapping. RTAB-Map can subscribe to either stereo camera or Lidar data. The Hector mapping package subscribes only to Lidar data, and it leverages the high update rate of most modern Lidar systems. Both of these mapping packages can utilize the loop closure method that detects when the sensor has made it back to its starting position. By recognizing when it reaches its starting position, the algorithm is able to make corrections to its recorded map which increases the maps accuracy. I have a research paper by MIT that used multiple drones and a lidar system for mapping that integrated the maps real time. They refer to the package as C-SLAM in the paper, but I have not been able to find anymore information on this SLAM package. **NM**
+
+7. * Some common hardware that can be used to make sure a UAV can be flown autonomously include the Pixhawk4 flight controller, NAVIO2 autopilot pi board hat, IMU sensors, many different types of cameras, odometry sensors, barometer sensors, different types of depth sensors, and different GPS/GNSS systems. Many different degrees of precision can be achieved with these types of sensors. RTK GNSS/GPS systems can be used to achieve cm precision. This would allow for more precise data on the UAV's location to be recorded. However, if different sensor's data is simultaneously collected and fed into certain filter algorithms decent precision can be achieved. It isn't cm, but it is still useful and an option. The thing I have not been able to determine yet is what is the "best" way for us to achieve autonomous flight from the UAV we will eventually pick. **BM**
 
 
 ## Questions/Comments
@@ -72,7 +74,7 @@ To complete a working draft of design tools.
 
 2. I (Nathan) plan to work on an online course which will include learning the basic control of a drone, drone exploration, and drone navigation.
 
-3. I (Ben) plan to get into understanding the basics of ROS and I will be helping out wherever I am needed. I (as well as the rest of the team) will also be working on adding more to the Specification Sheet and the Evaluation Martix.
+3. I (Ben) plan to get into understanding the basics of ROS and I will be helping out wherever I am needed. I (as well as the rest of the team) will also be working on adding more to the Specification Sheet and the Evaluation Matrix.
 
 4. I (Joseph) have created an account on robotigniteacademy.com and will be starting with the programming drones with ROS course. I will also be doing some more reading on different kinds of markers used for pose estimation and distance calculation. I am also going to go through this tutorial on ArUco markers being used in ROS to estimate the ArUco markers 6 DOF pose: [ArUco Marker Tutorial](http://ros-developer.com/2017/04/23/aruco-ros/)
 
