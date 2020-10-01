@@ -66,7 +66,8 @@ To complete a working draft of design tools.
 ## Plan for the next two weeks
 1. We are still waiting to register with RoboNation.
 2. Finish a first draft of a specification sheet.
-3. Start compiling a morphological chart, and begin determining the "best" solutions for our product sub-functions completing an Evaluation Matrix.
+3. Determine the "best" solutions for our product sub-functions by completing a morphological chart. 
+4. Begin compiling an Evaluation Matrix.
 
 
 ### What are your next steps?
