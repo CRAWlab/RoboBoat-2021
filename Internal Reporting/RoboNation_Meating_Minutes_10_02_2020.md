@@ -17,6 +17,8 @@ Link to data sharing page:
 Link that discusses FAA guidelines, registration etc.:
 [RoboBoat_Fyling_UAV_at_RoboBoat_Thread](https://robonationforum.vbulletin.net/forum/roboboat/-2019-roboboat/1880-flying-uav-at-roboboat-2019)
 
+### Meeting Topics:
+
 1. What is it?
     * A cloud-based data sharing platform that allows teams to share data back and forth.
         * Box
