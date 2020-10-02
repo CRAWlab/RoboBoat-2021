@@ -1,5 +1,5 @@
 # RoboNation Meeting Notes from 10/2/2020
-## Attendies: Joseph Stevens, Kyle
+## Attendies: Joseph Stevens, Kyle Leleux, and Benjamin Willis
 ### Quick Contact apps:
 
 RoboBoat band app:
