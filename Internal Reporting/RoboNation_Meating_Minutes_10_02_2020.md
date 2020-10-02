@@ -1,5 +1,6 @@
 # RoboNation Meeting Notes from 10/2/2020
 ## Attendies: Joseph Stevens, Kyle Leleux, and Benjamin Willis
+
 ### Quick Contact apps:
 
 RoboBoat band app:
@@ -7,6 +8,8 @@ RoboBoat band app:
 
 RobotX:
 [RobotX_BandApp](https://band.us/n/a8ad325bo9e9x)
+
+### Links:
 
 Link to data sharing page:
 [RoboBoat_Data_Sharing](http://roboboat.org/data-sharing/)
@@ -35,20 +38,18 @@ Link that discusses FAA guidelines, registration etc.:
 
 5. Testing
     * From now until October 18
-
-6. Feedback
-    * Due to RoboNation by Sunday October 18^th by end of day.
-
-7. Testing
     * Defined Parameters
         * Explore the platform and provide feedback on user experience and navigation through the platform.
         * Please provide feedback on all aspects of the system: How difficult is it to access data, find data, download/upload data.
 
-8. Filling out Feedback
+6. Feedback
+    * Due to RoboNation by Sunday October 18^th by end of day.
+
+7. Filling out Feedback
     * Fill out feedback on the RoboNation website, link available in RoboNation Box link and on data sharing page on RoboNation's website.
 
-9. To enter RobotX data (only for the beta testing period)
+8. To enter RobotX data (only for the beta testing period)
     * Go into RoboNation/2017/Task
     * Put RobotX and the year
 
-10. Slides from meeting are on the website
+9. Slides from meeting are on the website
