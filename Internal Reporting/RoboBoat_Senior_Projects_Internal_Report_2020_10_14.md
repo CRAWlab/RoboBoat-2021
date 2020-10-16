@@ -11,9 +11,10 @@ Members:
 # Integration of a UAV to the RoboBoat to aid in task completion and navigation
 
 ## Long-term Project Goal
-Integrate a drone to the RoboBoat to increase the points gained while completing certain tasks and aid in navigating the courses more efficiently.
+Integrate a UAV to the RoboBoat to increase the points gained while completing certain tasks and aid in navigating the courses more efficiently.
 
 > ***JV*** Does it have to be a drone?
+> ***JS*** No sir, this was an oversight on our part. The Long-term Poject Goal has not been looked at or update since we started these reports. Both sections now reflect 'UAV'.
 
 ## Short-term Goal
 To complete a working final draft of design tools and continuously update Gantt chart.
@@ -41,6 +42,7 @@ To complete a working final draft of design tools and continuously update Gantt 
 5. Midterm presentation for Dr. Simon (10min 6-10 slides) for next week
 
 > ***JV*** If you'd like me to take a quick look at your slides and/or have questions about presenting on design, please let me know.
+> ***JS*** I think that would be helpful. We weren't really given much guidance as to what Dr. Simon is expecting. He just said an update on what we've done so far. As soon as we have the first draft we will send it over. Thank you
 
 6. Begin compiling Final Presentation
 
@@ -64,12 +66,17 @@ By next report, we plan to have a finished first draft of the specification shee
 No we are not on schedule for this semester, but we are working diligently to catch up and get back on pace.
 
 # Long-term planning
-We want to have the final design concept decided by last week of October. We would like to have the drone flying autonomously with a camera attached to the bottom of it within a pre-defined area by the begging of next semester. We want to fully test this design by late February, early March to have time to correct the flaws in the coding and design. We are looking to have the UAV fly autonomously with a camera attached to it, collect data that represents objects, raise/deliver an object, and have the UAV integrated with ASV by the end of next semester.
+We want to have the final design concept decided by last week of October. We would like to have the UAV flying autonomously with a camera attached to the bottom of it within a pre-defined area by the begging of next semester. We want to fully test this design by late February, early March to have time to correct the flaws in the coding and design. We are looking to have the UAV fly autonomously with a camera attached to it, collect data that represents objects, raise/deliver an object, and have the UAV integrated with ASV by the end of next semester.
 
 ## Up coming Paper Deadlines
 Senior projects progress report due every other Thursday starting September 16, 2020.
+Midterm Presentations due Thursday October 22nd.
+Final Team Presentations: due dates range from November 9th - November 16th. We need to have something prepared by Monday November 9th.
+Final Reports due Friday November 20th.
 
 > ***JV*** Final report? Presentations?
+
+> ***JS*** Updated, thank you.
 
 ## Administrative Deadlines
 None yet. Waiting on rules form RoboNation to be released.
