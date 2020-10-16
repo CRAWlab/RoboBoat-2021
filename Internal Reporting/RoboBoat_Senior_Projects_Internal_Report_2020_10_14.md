@@ -13,6 +13,8 @@ Members:
 ## Long-term Project Goal
 Integrate a drone to the RoboBoat to increase the points gained while completing certain tasks and aid in navigating the courses more efficiently.
 
+> ***JV*** Does it have to be a drone?
+
 ## Short-term Goal
 To complete a working final draft of design tools and continuously update Gantt chart.
 
@@ -37,6 +39,9 @@ To complete a working final draft of design tools and continuously update Gantt 
 3. Begin compiling an Evaluation Matrix.
 4. Working final drafts of design tools completed.
 5. Midterm presentation for Dr. Simon (10min 6-10 slides) for next week
+
+> ***JV*** If you'd like me to take a quick look at your slides and/or have questions about presenting on design, please let me know.
+
 6. Begin compiling Final Presentation
 
 
@@ -49,6 +54,8 @@ To complete a working final draft of design tools and continuously update Gantt 
 
 4. I (Joseph) will be starting with the programming drones with ROS course. I am also going to go through this tutorial on ArUco markers being used in ROS to estimate the ArUco markers 6 DOF pose: [ArUco Marker Tutorial](http://ros-developer.com/2017/04/23/aruco-ros/) Brenna and I will work on getting the electronic mount CAD ready for the enclosure.
 
+> ***JV*** As we discussed on the call this week, you can also use the TurtleBot and the Husky. The small robot I left is just another alternative. I would also be comfortable working in gazebo.
+
 
 ### What work do you expect to have done by next report? What results to you expect?
 By next report, we plan to have a finished first draft of the specification sheet, a morphological chart, and a working draft of an Evaluation Matrix with the "best" design for this application determined.
@@ -57,10 +64,12 @@ By next report, we plan to have a finished first draft of the specification shee
 No we are not on schedule for this semester, but we are working diligently to catch up and get back on pace.
 
 # Long-term planning
-  We want to have the final design concept decided by last week of October. We would like to have the drone flying autonomously with a camera attached to the bottom of it within a pre-defined area by the begging of next semester. We want to fully test this design by late February, early March to have time to correct the flaws in the coding and design. We are looking to have the UAV fly autonomously with a camera attached to it, collect data that represents objects, raise/deliver an object, and have the UAV integrated with ASV by the end of next semester.
+We want to have the final design concept decided by last week of October. We would like to have the drone flying autonomously with a camera attached to the bottom of it within a pre-defined area by the begging of next semester. We want to fully test this design by late February, early March to have time to correct the flaws in the coding and design. We are looking to have the UAV fly autonomously with a camera attached to it, collect data that represents objects, raise/deliver an object, and have the UAV integrated with ASV by the end of next semester.
 
 ## Up coming Paper Deadlines
-### Senior projects progress report due every other Thursday starting September 16, 2020.
+Senior projects progress report due every other Thursday starting September 16, 2020.
+
+> ***JV*** Final report? Presentations?
 
 ## Administrative Deadlines
-### None yet. Waiting on rules form RoboNation to be released.
+None yet. Waiting on rules form RoboNation to be released.
