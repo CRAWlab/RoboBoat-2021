@@ -26,7 +26,7 @@ To complete a working final draft of the Evaluation Matrix, work on final report
 
 3. Discussed procedure for aiding the RoboBoat in navigating the course: Plan to aid the ASV by capturing a data set of each task and communicating the information to the ASV as opposed to capturing the entire course. We are planning to be a task ahead of the ASV. We plan to use the GPS coordinates provided by RoboBoat to deploy the UAV in the general direction of the next "Task". Following deployment, two ideas were discussed; recognizing the color of the buoys, or detecting geometry of the tasks layout(convex hull/cluster analysis). Afterwards, the UAV could work as a "pin" for the boat to find; given that the ASV will know its approximate relative position to the UAV and its approximate global position. The development of these ideas continue to advance while working through the design tools, but are not final. **Team**
 
-4. The old enclosure is completely taken apart and the individual parts are labeled. The design of the enclosure mount has not been determined. 
+4. The old enclosure is completely taken apart and the individual parts are labeled. The final design of the enclosure mount has not been determined. 
 
 5. Battery chargers have been selected based on overall reviews from hobbyist that have used them. [Battery Chargers  Comparison Sheet](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools) 
 
@@ -38,9 +38,10 @@ To complete a working final draft of the Evaluation Matrix, work on final report
 ## Plan for the next two weeks
 
 1. Revise working final drafts of design tools
-2. Continue compiling a Morphological Chart
-3. Figure out how to ssh into the Stingray over Wifi
-4. Begin compiling Final Presentation charts and graphs and start the final paper
+2. Finish compiling a Morphological Chart
+3. Complete an Evaluation Matrix to get a final conceptual design finalized
+4. Figure out how to ssh into the Stingray over Wifi
+5. Begin compiling Final Presentation charts and graphs and start the final paper
 6. We are still waiting to completely register with RoboNation
 
 ### What are your next steps?
@@ -49,7 +50,7 @@ To complete a working final draft of the Evaluation Matrix, work on final report
 
 1. Finish revisions of current design tools
 2. Work on final report (Finish outline and work on abstract and introduction)
-3. Finish the morphological chart and submit for review
+3. Finish the Morphological Chart and submit for review
 4. Finish the evaluation matrix and submit for review
 5. Use the design tools to come to a conclusion for the final UAV design
 6. Write and submit proposal for UAV
