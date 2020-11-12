@@ -22,13 +22,15 @@ To complete a working final draft of the Evaluation Matrix, work on final report
 
 1. As a team, we went back through the [Specification Sheet, House of Quality, and Function tree](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools) and have updated the comments that were given to us and continued to iterate these tools. **Team**
 
-2. As a team, we have created a [Morphological Chart](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools). It is a working document because we are still evaluating possible solutions for each of the lower-level functions that must be completed. **Team**
+2. We are 95% done with the [Morphological Chart](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools) and will have it finished by Thursday 11/12/2020. We made edits suggested by Dr. Vaughan in last meeting to expand the "ROS" sections into more defined solutions. **Team**
 
-3. Discussed procedure for aiding the RoboBoat in navigating the course: Plan to aid the ASV by capturing a data set of each task and communicating the information to the ASV as opposed to capturing the entire course. We are planning to be a task ahead of the ASV. We plan to use the GPS coordinates provided by RoboBoat to deploy the UAV in the general direction of the next "Task". Following deployment, two ideas were discussed; recognizing the color of the buoys, or detecting geometry of the tasks layout(convex hull/cluster analysis). Afterwards, the UAV could work as a "pin" for the boat to find; given that the ASV will know its approximate relative position to the UAV and its approximate global position. The development of these ideas continue to advance while working through the design tools, but are not final. **Team**
+3. We finished making the edits on our final presentation as suggested by Dr. Vaughan. **Team**
 
 4. The old enclosure is completely taken apart and the individual parts are labeled. The final design of the enclosure mount has not been determined. 
 
 5. Battery chargers have been selected based on overall reviews from hobbyist that have used them. [Battery Chargers  Comparison Sheet](http://crawlab.org/owncloud/index.php/apps/files/?dir=%2Fshared%2FRoboBoat%2FRoboBoat2021%2FSeniorProjects_Design_Tools) 
+
+6. We have started working on our final report that is due Friday November 20th 2020.
 
 ## Questions/Comments
 
@@ -41,8 +43,9 @@ To complete a working final draft of the Evaluation Matrix, work on final report
 2. Finish compiling a Morphological Chart
 3. Complete an Evaluation Matrix to get a final conceptual design finalized
 4. Figure out how to ssh into the Stingray over Wifi
-5. Begin compiling Final Presentation charts and graphs and start the final paper
-6. We are still waiting to completely register with RoboNation
+5. Begin compiling Final Presentation charts and graphs and finish the final paper
+6. We filled out the intent to compete form and are still waiting to completely register with RoboNation
+7. Attend RoboBoat meeting on Friday 11/13/2020 at 6:00pm
 
 ### What are your next steps?
 
@@ -63,8 +66,7 @@ To complete a working final draft of the Evaluation Matrix, work on final report
 
 3. I (Ben) plan to get into understanding the basics of ROS and I will be helping out wherever I am needed. I (as well as the rest of the team) will also be working on adding more to the Specification Sheet, morphological chart, and the Evaluation Matrix. Work with the robot that Dr. Vaughan left with the team and Kyle.
 
-4. I (Joseph) will be working mainly focusing on getting the design tools to a point that enables us to come to a conclusion on our final UAV design. Also, my attention will be on our final report and presentation.
-
+4. I (Joseph) will be working mainly focusing on finalizing our Morph Chart and Eval Matrix and completing our final report.
 
 ### What work do you expect to have done by next report? What results to you expect?
 
