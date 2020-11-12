@@ -16,7 +16,7 @@ Integrate a rotary UAV to the RoboBoat to increase the points gained while compl
 
 ## Short-term Goal
 
-To complete a working final draft of the Evaluation Matrix, work on final report and presentation. 
+To complete a working final draft of the Evaluation Matrix, work on final report and present final presentation Thursday, November 12th. 
 
 ## Recent Results Overview
 
@@ -75,7 +75,7 @@ No we are not on schedule for this semester, but we are working diligently to ca
 
 # Long-term planning
 
-**We want to have the final design concept decided by the  week of November 9th. We would like to have the UAV flying autonomously with a camera attached to the bottom of it within a pre-defined area by the begging of next semester. We want to fully test this design by late February, early March to have time to correct the flaws in the coding and design. We are looking to have the UAV fly autonomously with a camera attached to it, collect data that represents objects, raise/deliver an object, and have the UAV integrated with ASV by the end of next semester.**   ??????
+We want to have the final design concept decided by the end of the semester. We would like to have the UAV flying autonomously with a camera attached to the bottom of it within a pre-defined area by the begging of next semester. We want to fully test this design by late February, early March to have time to correct the flaws in the coding and design. We are looking to have the UAV fly autonomously with a camera attached to it, collect data that represents objects, raise/deliver an object, and have the UAV integrated with ASV by the end of next semester.
 
 ## Up coming Paper Deadlines
 
