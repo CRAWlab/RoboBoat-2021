@@ -40,6 +40,11 @@
 {\LARGE \bf Autonomous Vehicles for Coastal Preservation}
 
 % author names and affiliations
+\textbf{Team Type:} University Team\\
+\textbf{Team Name:} Ragin' Cajuns\\
+\textbf{Region:} North America\\
+\textbf{Category:} Robotics\\
+\vspace{0.1in}
 \textbf{Team Members}:\\Nathan Madsen, Brennan Moeller, Joseph Stevens, and Benjamin Willis\\
 \vspace{0.1in}
 \textbf{Faculty Advisors}:\\Yasmeen Qudsi and Joshua Vaughan \\
@@ -62,7 +67,7 @@ Email: joshua.vaughan@louisiana.edu}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{abstract}
 \vspace{-0.2in}
-This work proposed here seeks to improve the safety and efficiency of autonomous surface vessels used to monitor wetlands through the addition of an OAK-D cameras. The OAK-D would would be increase the efficiency of the autonomous system by reducing the computational load on the on-board computers, thereby increasing the computational power available for both the scientific mission on the boat. This addition would also help improve the localization precision the surface vessel by enabling more sensors, such as LiDAR, to be added with the same computational resources and power requirements.\todo{Do we need another, summary / conclusion sentence here?}
+The work proposed here seeks to improve the safety and efficiency of autonomous surface vessels used to monitor wetlands through the addition of an OAK-D camera. The OAK-D would increase the efficiency of the autonomous system by reducing the computational load on the on-board computers, thereby increasing the computational power available for both the scientific mission on the boat and the inclusion of additional peripherals to enhance safety. This addition would also help improve the localization precision the surface vessel by enabling more sensors, such as LiDAR, to be added with the same computational resources and power requirements. The overall system would be able to achieve safer and more efficient coastal monitoring with the addition of an OAK-D camera. 
 \end{abstract}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -107,9 +112,9 @@ One system the Ragin' Cajuns are using as a platform for research into this prob
 
 In 2020, RoboNation held a virtual competition where the \href{https://crawlab.github.io/RoboBoat-2020/} {Ragin' Cajuns} placed 2nd overall. The team was graciously featured on \href{https://clearpathrobotics.com/blog/2020/11/research-team-uses-clearpath-simulation-in-second-place-finish-at-roboboat-2020/}{Clearpath Robotics' website} where the advancements that were made to the system by leveraging their systems for testing were publicized. 
 
-The boat's object detection algorithms have been in constant development since its initial construction. In this system, in addition to being used for obstacle detection and object identification, the OAK-D camera would be used to aid in the simultaneous localization and mapping (SLAM) of the vessel. The OAK-D's data would be used in conjunction with RTK GPS and LiDAR data to improve the localization precision. 
+The boat's object detection algorithms have been in constant development since its initial construction. In this system, in addition to being used for obstacle detection and object identification, the OAK-D camera would be used to aid in the simultaneous localization and mapping (SLAM) of the vessel. The OAK-D's data would be used in conjunction with RTK-GPS and LiDAR data to improve the localization precision. 
 
-Another application of the OAK-D camera within the proposed system is on an unmanned aerial vehicle (UAV) that is currently being developed to integrate with maritime system. This camera would allow for the UAV to improve its autonomous flight by reducing the processing burden of the on-board computer. This would enable more processing time to be spent on increasing the UAV's ability to be robust to varying operating conditions rather than processing images, tracking objects, and classifying images. Due to weight constraints, most of the processing for the current visual peripherals must be carried out on the autonomous surface vessel. The OAK-D would allow for the recognition and tracking of the buoys to be done onboard the UAV. This has the benefits of both reducing the lag time for processing and reducing the required network bandwidth. The reduced lag time in vision processing will improve the safety of the UAV, while the newly-freed bandwidth can be dedicated to scientifically-relevant data.
+Another application of the OAK-D camera within the proposed system is on an unmanned aerial vehicle (UAV) that is currently being developed to integrate with maritime system. This camera would allow for the UAV to improve its autonomous flight by reducing the processing burden of the on-board computer. This would enable more processing time to be spent on increasing the UAV's ability to be robust to varying operating conditions rather than processing images, tracking objects, and classifying images. Due to weight constraints, most of the processing for the current visual peripherals must be carried out on the autonomous surface vessel. The OAK-D would allow for the recognition and tracking of the buoys to be done on-board the UAV. This has the benefits of both reducing the lag time for processing and reducing the required network bandwidth. The reduced lag time in vision processing will improve the safety of the UAV, while the newly-freed bandwidth can be dedicated to scientifically-relevant data.
 
 To demonstrate the proposed system and algorithms, the OAK-D camera will be used in the 2021 RoboBoat contest. Use in the RoboBoat competition will enable testing and verification of the proposed algorithms in unknown, dynamic environments. The addition of the camera would give Ragin' Cajuns the ability to improve the autonomous system for the RoboBoat competition, and more importantly, it would enable the Ragin' Cajuns to work towards safer coastal preservation for wetlands like those found in Louisiana.
 
@@ -157,7 +162,7 @@ In addition, there are many systems and hardware within the CRAWLAB to support t
 \label{sec:timeline}
 \vspace{-0.2in}
 %
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.  
+The first major milestone of the proposed work is the training of a real-time Convolutional Neural Network (CNN). To accomplish this tasks, an extensive dataset of the objects that will be encountered in the competition will be created in Blender, a 3D computer graphics software, by mid-March. This will allow the Ragin' Cajuns to spend the rest of March and beginning of April training and evaluating the performance of the CNN. Subsequently, the rest of April and beginning of May will be spent incorporating the OAK-D into the SLAM algorithms needed on both the ASV and UAV. The next milestone is in Mid-May, which will mark the full installation and setup of the OAK-D camera on the RoboBoat platform. Testing of the autonomous system at the 2021 RoboBoat contest will be occur in mid-June. Finally, evaluation and documentation of the performance of the system would be completed by the end of June. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -165,7 +170,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 \label{sec:additional}
 \vspace{-0.2in}
 %
-Below are links to more information, images, and video that demonstrate the past work of this team and its capabilities. 
+Below are links to more information, images, and videos that demonstrate the past work of this team and its capabilities. 
 
 \textbf{flickr Albums}
 \vspace{-0.2in}
