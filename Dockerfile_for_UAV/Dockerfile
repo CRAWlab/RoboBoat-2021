@@ -13,19 +13,12 @@ RUN sudo apt-get update && sudo apt-get install -y \
     ros-melodic-mavros \
     ros-melodic-mavros-extras \
     nano \
+    htop \
+    tmux \
     ros-melodic-usb-cam \
-    ros-melodic-roscpp \
-    ros-melodic-catkin \
     ros-melodic-compressed-image-transport \
-    ros-melodic-roscpp \
-    ros-melodic-std-msgs \
-    ros-melodic-std-srvs \
-    ros-melodic-sensor-msgs \
-    ros-melodic-camera-info-manager \
-    ros-melodic-dynamic-reconfigure \
-    ros-melodic-diagnostic-updater \
-    ros-melodic-message-generation \
-    ros-melodic-message-runtime
+    ros-melodic-camera-info-manager
+
 
 RUN wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.sh \
     && chmod +x install_geographiclib_datasets.sh \
@@ -33,3 +26,4 @@ RUN wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/
     && rm install_geographiclib_datasets.sh
 
 RUN rm -rf /var/lib/apt/lists/* 
+
