@@ -17,7 +17,13 @@ RUN sudo apt-get update && sudo apt-get install -y \
     tmux \
     ros-melodic-usb-cam \
     ros-melodic-compressed-image-transport \
-    ros-melodic-camera-info-manager
+    ros-melodic-camera-info-manager \ 
+    ros-melodic-realsense2-camera \
+    ros-melodic-realsense2-camera-description \
+    ros-melodic-rtabmap-ros \
+    ros-melodic-rtabmap \ 
+    ros-melodic-multirobot-map-merge \
+    ros-melodic-multi-map-server 
 
 
 RUN wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.sh \
@@ -26,4 +32,3 @@ RUN wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/
     && rm install_geographiclib_datasets.sh
 
 RUN rm -rf /var/lib/apt/lists/* 
-
