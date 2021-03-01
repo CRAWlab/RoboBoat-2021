@@ -37,6 +37,8 @@ RUN apt-get update && \
         ros-melodic-multirobot-map-merge \
         ros-melodic-multi-map-server \
         ros-melodic-robot-localization \ 
+        ros-melodic-librealsense2 \
+        ros-melodic-realsense2* \
         python-rosdep \
         python-rosinstall \
         python-rosinstall-generator \
