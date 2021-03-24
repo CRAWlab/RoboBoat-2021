@@ -4,12 +4,11 @@ docker run -it --rm --privileged \
     -v /home/pi/src/PX4-Autopilot:/src/PX4-Autopilot:rw \
     -v /tmp/.X11-unix:/tmp/.X11-unix:ro \
     -e DISPLAY=:0 \
-    -p 14570:14570/udp \
-    --name=UAV_companion px4io/px4-dev-ros-melodic bash
-    px4io/px4-dev-raspi bash 
-docker pull px4io/px4-dev-ros-melodic
-# PX4 
-roslaunch mavros px4.launch
+    -p 14445:14445/udp \
+    --name=UAV_companion ros:melodic-mavros-mavlink bash
 
-# checking IP o container 
+roslaunch mavros px4.launch fcu_url:=/dev/ttyAMA0 gcs_url:=udp://@192.168.143.167
+
+
+# checking IP of container 
 docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' UAV_companion
