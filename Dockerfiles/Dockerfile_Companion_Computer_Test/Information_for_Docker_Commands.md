@@ -1,14 +1,12 @@
-# on a RPi
+# First step on a RPi terminal and launch a roscore
 docker run -it --rm --privileged \
-    --env=LOCAL_USER_ID="$(id -u)" \
-    -v /home/pi/src/PX4-Autopilot:/src/PX4-Autopilot:rw \
-    -v /tmp/.X11-unix:/tmp/.X11-unix:ro \
-    -e DISPLAY=:0 \
-    -p 14445:14445/udp \
+    -v /home/pi/src:/src:rw \
     --name=UAV_companion ros:melodic-mavros-mavlink bash
 
-roslaunch mavros px4.launch fcu_url:=/dev/ttyAMA0 gcs_url:=udp://@192.168.143.167
 
 
-# checking IP of container 
-docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' UAV_companion
+# (Make sure Host Name for QGCS is localhost:14540) Second step from separate terminal that is SSHd into the RPi (Have a QGCS session up  on same network)
+docker exec -it UAV_companion bash
+source ros_entrypoint.sh 
+rosrun mavros mavros_node _fcu_url:=/dev/ttyAMA0:921600 _gcs_url:=udp://@192.168.143.232
+
