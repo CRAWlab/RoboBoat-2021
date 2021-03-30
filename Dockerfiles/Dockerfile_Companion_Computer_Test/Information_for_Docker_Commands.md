@@ -1,12 +1,13 @@
-# First step on a RPi terminal and launch a roscore
-docker run -it --rm --privileged \
-    -v /home/pi/src:/src:rw \
-    --name=UAV_companion ros:melodic-mavros-mavlink bash
+## First step on a RPi terminal and launch a roscore
+* docker run -it --rm --privileged \
+  *  -v /home/pi/src:/src:rw \
+  * --name=UAV_companion ros:melodic-mavros-mavlink bash
 
 
-
-# (Make sure Host Name for QGCS is localhost:14540) Second step from separate terminal that is SSHd into the RPi (Have a QGCS session up  on same network)
-docker exec -it UAV_companion bash
-source ros_entrypoint.sh 
-rosrun mavros mavros_node _fcu_url:=/dev/ttyAMA0:921600 _gcs_url:=udp://@192.168.143.232
+## Second step from separate terminal that is SSHd into the RPi 
+    * (Make sure Host Name for QGCS is localhost:14540) 
+    * (Have a QGCS session up  on same network)
+* docker exec -it UAV_companion bash
+* source ros_entrypoint.sh 
+* rosrun mavros mavros_node _fcu_url:=/dev/ttyAMA0:921600 _gcs_url:=udp://@192.168.143.232
 
