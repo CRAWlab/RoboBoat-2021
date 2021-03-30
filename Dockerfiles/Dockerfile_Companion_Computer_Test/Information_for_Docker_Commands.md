@@ -1,7 +1,9 @@
-## First step on a RPi terminal and launch a roscore
+## First step on a RPi terminal 
 * docker run -it --rm --privileged \
   *  -v /home/pi/src:/src:rw \
   * --name=UAV_companion ros:melodic-mavros-mavlink bash
+
+* Then launch a roscore in the terminal
 
 
 ## Second step from separate terminal that is SSHd into the RPi 
