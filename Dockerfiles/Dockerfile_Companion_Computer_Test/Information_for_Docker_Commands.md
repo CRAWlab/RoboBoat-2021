@@ -1,6 +1,6 @@
 ## First step on a RPi terminal 
 * docker run -it --rm --privileged --net=host\
--v /home/pi/src:/src:rw \
+ -v /home/pi/src:/src:rw \
  --name=UAV_companion ros:melodic-mavros-mavlink bash
 
 * Then launch a roscore in the terminal
