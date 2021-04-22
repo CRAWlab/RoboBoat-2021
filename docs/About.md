@@ -10,4 +10,7 @@
 
 
 ## UL Lafayette Ragin' Cajuns
+
+Not sure if this page is needed or if it should be changed to a Contact page
+
 *Coming soon...*

@@ -9,4 +9,12 @@
 </p>
 
 ## 2021 UL Lafayette Ragin' Cajuns Simulation
+
+- Should tabs be made for UAV, ASV, Blender, Labelbox?
+
+- First thing on this page will be a clip of a video of the UAV moving in simulation
+- Next we can talk about the design process in this simulation and how the UAV was made to work in [RotorS](http://wiki.ros.org/rotors_simulator)
+    - We can show of how this UAV failed many times and we can talk about why it failed and how we worked to fix this issue
+    - Show clips of failures and then a successful launch
+    
 *Coming soon...*
