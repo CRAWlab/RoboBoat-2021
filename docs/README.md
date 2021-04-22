@@ -33,7 +33,7 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
 
 
   - Add Ms. Yasmeen Qudsi
-      - Write about how Yasmeen has repeaditly gone out of her way to make sure this team is taken care of to make sure this team becomes a success!
+      - Write about how Yasmeen has repeatedly gone out of her way to make sure this team is taken care of to make sure this team becomes a success!
           - This includes how she helped teach us to solder, helped water-jet four parts for us, given us some tricks and trades for making sure we are doing the correct "things" with electronics.
       - Is this appropriate to use?
         - [Ms. Qudsi - Louisiana Introduction Page](https://mechanical.louisiana.edu/node/163)
@@ -45,12 +45,19 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
 
   <h3 style="text-align:center;"> Team Members (Joseph Stevens (Captain), Brennan Moeller, Benjamin Willis, Nathan Madsen, Adam Smith, etc.) </h3>
 
-  - Write about what each teammember has done for this project and what they have to show for it.
+  - Write about what each team member has done for this project and what they have to show for it.
         - Should we have this as a standard picture or a flowing picture (where the people would be in frame for x seconds and then the next person goes into the frame?)
     - Joe: Team Captain
         - Any links to add?
-    - Brennan: Communications Director (Is this the correct role for Brennan?)
-        - Any links to add?
+
+    - Brennan Moeller: Communications Director
+      - Brennan was responsible for implementing the Docker containers on all computers and creating an upgraded network system for the addition of the UAV to the previous system among other various tasks
+      - [Brennan's LinkedIn](https://www.linkedin.com/in/brennan-moeller-b31ba7163/)
+     <p align="center">
+     <img width="10%" src="images/Brennan_Headshot.jpg" alt=""/><br>
+     (This can be changed as needed)
+     </p>
+
     - Ben: Manufacturing Director (Is this the correct role for Ben?)
         - Any links to add?
     - Nathan: Navigation Director (Is this the correct role for Nathan?)
