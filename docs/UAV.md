@@ -15,9 +15,9 @@
 
 ## 2021 UL Lafayette Ragin' Cajuns UAV
 
-- Here we will talk about this being our teams senior project and how it relates towards how it will imorve our efficiency in the competition.
+- Here we will talk about this being our teams senior project and how it relates towards how it will improve our efficiency in the competition.
     - Should we have scrolling pictures of it in CAD form and then in real life? This would show off how close our real model is to our CAD model
-    - This is where we can talk about the story of this desin and what problems we had to overcome as a team to get our desired end product
+    - This is where we can talk about the story of this design and what problems we had to overcome as a team to get our desired end product
       - Troubles:
         - COVID
         - Designs that failed when printed
@@ -25,18 +25,19 @@
           - Failed because of unrealistic expectations
         - Soldering failures?
         - Using incorrect circuit breaker
-        - Inccorect motor placement
+        - Incorrect motor placement
         - Incorrect wiring of motors
         - Incorrect blade positions
         - Parts breaking/loosing pieces
         - Time Management
       - Success:
         - Simulated in Full
-        - Great Asthetics in Product
+        - Great Aesthetics in Product
         - Hovering Drone?
         - Camera Implementation?
         - Waypoint Movement?
         - Aruco Tag accuracy improvement
         - RTK accuracy
 
-*Coming soon...*
+## Initial Design concepts for the UAV
+  
