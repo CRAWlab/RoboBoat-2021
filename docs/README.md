@@ -18,7 +18,9 @@
 Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) entry into the [2021 RoboBoat Competition](https://roboboat.org/programs/2021/). This is the Ragin' Cajuns' third design submission to RoboBoat. We are very excited to show off our progress through the past nine months, so please take a look and enjoy! 
 
 <!-- Meet the 2021 RoboBoat Team -->
-<p>
+
+
+
 <h2 style="text-align:center;">Meet the 2021 RoboBoat Team </h2>
   <h3 style="text-align:center;"> Coaches </h3>
 
@@ -39,7 +41,7 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
         - [Ms. Qudsi - Louisiana Introduction Page](https://mechanical.louisiana.edu/node/163)
       - Any other links to add?
       - Email: *yasmeen.qudsi@louisiana.edu*
-</p>
+
 <p> 
 </p>
 
@@ -58,19 +60,29 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
      (This can be changed as needed)
      </p>
 
-    - Ben: Manufacturing Director (Is this the correct role for Ben?)
-        - Any links to add?
+    ## OR Should we do this?
+    <div style="float:left; padding:25px; margin-left:10px;"><img src="images/Brennan_Headshot.jpg" title="Brennan" width="90px" /></div>
+
+    ### **Brennan Moeller: Communications Director**
+    - Brennan was responsible for implementing the Docker containers on all computers and creating an upgraded network system for the addition of the UAV to the previous system among other various tasks
+    - [Brennan's LinkedIn](https://www.linkedin.com/in/brennan-moeller-b31ba7163/)
+
+
+    ### **Ben: Manufacturing Director**
+    - Any links to add?
+    
     - Nathan: Navigation Director (Is this the correct role for Nathan?)
         - Any links to add?
     - Adam Smith: Grad Student (He should have some sort of role since he has helped us put together the ASV)
         - Any links to add?
     - Anyone else?
 
-  <h3 style="text-align:center;"> Design Documents? </h3>
+  <h3 style="text-align:center;"> Design Documents </h3>
 
   - [TDR]()
   - [Skills Video: Sensor Optimization]()
   - [Skills Video: Power Management]()
   - [Demonstration Video]()
+  - [Gantt Chart]()
 
 *More coming soon...*
