@@ -1,7 +1,7 @@
 
 <center>
   <a href="https://crawlab.github.io/RoboBoat-2021/"><img src="images/Buttons/Home.png" title="UAV" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Simulation"><img src="images/Buttons/Simulations.png" title="UAV" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Simulation"><img src="images/Buttons/Simulations.png" title="Simulations" width="110px" /></a>
 </center>
 
 <p><center>

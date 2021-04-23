@@ -8,15 +8,40 @@
 </center>
 </p>
 
-<center>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Contact"><img src="images/Buttons/Contact.png" title="Contact" width="110px" /></a>
-
-
-</center>
 
 ## UL Lafayette Ragin' Cajuns
 
-- 
-- Talk about this being apart of the C.R.A.W. Lab and that our adivsors are Yasmeen and Dr. Vaughan.
+
+  <h3 style="text-align:center;"> Contact Information </h3>
+
+  <h4 style="text-align:left;"><b>Dr. Joshua Vaughan</b></h4>
+
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/DocJV_Headshot.jpg" title="DocJV_Headshot" width="90px" /></div>
+
+<br />
+
+  - [C.R.A.W. LAB](https://userweb.ucs.louisiana.edu/~jev9637/)
+  - [Dr. Vaughan - Louisiana Introduction Page](https://mechanical.louisiana.edu/node/155)
+  - [Github Page](https://github.com/DocVaughan)
+  - Any other links to add?
+  - Email: *joshua.vaughan@louisiana.edu*
+
+<br />
+
+  <h4 style="text-align:left;"><b>Ms. Yasmeen Qudsi</b></h4>
+
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/Yasmeen_Headshot.jpg" title="Yasmeen_Headshot" width="90px" /></div>
+
+<br />
+
+  - Is this appropriate to use?
+  - [Ms. Qudsi - Louisiana Introduction Page](https://mechanical.louisiana.edu/node/163)
+  - Any other links to add?
+  - Email: *yasmeen.qudsi@louisiana.edu*
+
+
+
+- Talk about this being apart of the C.R.A.W. Lab and that our adivsors are Yasmeen and Dr. Vaughan?
+- Talk about this being the third year taking a part in the RoboBoat Competition?
 
 *More Coming soon...*
