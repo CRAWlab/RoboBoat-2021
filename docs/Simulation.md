@@ -1,20 +1,25 @@
 
 <p><center>
-  <a href="https://crawlab.github.io/RoboBoat-2021/About"><img src="images/About.png" title="About" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/"><img src="images/RoboBoat 2021.png" title="RoboBoat 2021" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Simulation"><img src="images/Simulation.png" title="Simulations" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Sponsorships"><img src="images/Sponsorships.png" title="Sponsorships" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Previous%20Competitions"><img src="images/Previous Competitions.png" title="About" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/About"><img src="images/Buttons/About.png" title="About" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/"><img src="images/Buttons/RoboBoat 2021.png" title="RoboBoat 2021" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Simulation"><img src="images/Buttons/Simulations.png" title="Simulations" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Previous%20Competitions"><img src="images/Buttons/Previous Competitions.png" title="About" width="110px" /></a>
 </center>
 </p>
 
+<center>
+  <a href="https://crawlab.github.io/RoboBoat-2021/UAV%20Simulation"><img src="images/Buttons/UAV.png" title="UAV Simulation" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/ASV%20Simulation"><img src="images/Buttons/ASV.png" title="ASV Simulation" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Blender"><img src="images/Buttons/Blender.png" title="Blender" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Labelbox"><img src="images/Buttons/Labelbox.png" title="Labelbox" width="110px" /></a>
+</center>
+
+
 ## 2021 UL Lafayette Ragin' Cajuns Simulation
 
-- Should tabs be made for UAV, ASV, Blender, Labelbox?
+- Here we will show off the main progress of the simulation aspect. There should be mostly little cips of information to show for it. It should be more inviting of a page if it's showing off interesting progress of our system
 
-- First thing on this page will be a clip of a video of the UAV moving in simulation
-- Next we can talk about the design process in this simulation and how the UAV was made to work in [RotorS](http://wiki.ros.org/rotors_simulator)
-    - We can show of how this UAV failed many times and we can talk about why it failed and how we worked to fix this issue
-    - Show clips of failures and then a successful launch
-    
-*Coming soon...*
+<!-- There will need to be a vimeo account set up for videos to take place -->
+
+
+*More Coming soon...*

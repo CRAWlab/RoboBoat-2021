@@ -1,21 +1,21 @@
 
 <p><center>
-  <a href="https://crawlab.github.io/RoboBoat-2021/About"><img src="images/About.png" title="About" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/"><img src="images/RoboBoat 2021.png" title="RoboBoat 2021" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Simulation"><img src="images/Simulation.png" title="Simulations" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Sponsorships"><img src="images/Sponsorships.png" title="Sponsorships" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/Previous%20Competitions"><img src="images/Previous Competitions.png" title="About" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/About"><img src="images/Buttons/About.png" title="About" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/"><img src="images/Buttons/RoboBoat 2021.png" title="RoboBoat 2021" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Simulation"><img src="images/Buttons/Simulation.png" title="Simulations" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Sponsors"><img src="images/Buttons/Sponsors.png" title="Sponsors" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/Previous%20Competitions"><img src="images/Buttons/Previous Competitions.png" title="About" width="110px" /></a>
 </center>
 </p>
 
 <center>
-  <a href="https://crawlab.github.io/RoboBoat-2021/UAV"><img src="images/UAV.png" title="UAV" width="110px" /></a>
-  <a href="https://crawlab.github.io/RoboBoat-2021/ASV"><img src="images/ASV.png" title="ASV" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/UAV"><img src="images/Buttons/UAV.png" title="UAV" width="110px" /></a>
+  <a href="https://crawlab.github.io/RoboBoat-2021/ASV"><img src="images/Buttons/ASV.png" title="ASV" width="110px" /></a>
 </center>
 
 ## 2021 UL Lafayette Ragin' Cajuns RoboBoat
 
-Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) entry into the [2021 RoboBoat Competition](https://roboboat.org/programs/2021/). This is the Ragin' Cajuns' third design submission to RoboBoat. We are very excited to show off our progress through the past nine months, so please take a look and enjoy! 
+Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) entry into the [2021 RoboBoat Competition](https://roboboat.org/programs/2021/). This is the Ragin' Cajuns' third design submission to RoboBoat. We are very excited to show off our progress throughout the past nine months, so please take a look and enjoy! 
 
 <!-- Meet the 2021 RoboBoat Team -->
 
@@ -24,7 +24,25 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
 <h2 style="text-align:center;">Meet the 2021 RoboBoat Team </h2>
   <h3 style="text-align:center;"> Coaches </h3>
 
-  - Add Dr. Joshua Vaughan
+
+
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
+	<strong style="text-align:center;">Captain</strong><br>
+	<img width="100%" src="images/Headshots/DocJV_Headshot.jpg"/><br>
+	<b style="text-align:center;">Dr. Joshua Vaughan</b>
+</p>
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 0%">
+	<strong style="text-align:center;">Vice Captain</strong><br>
+	<img width="100%" src="images/Headshots/Yasmeen_Headshot.jpg"/><br>
+	<b style="text-align:center;">Ms. Yasmeen Qudsi</b>
+</p>
+
+
+
+
+
+<!--
+  ### **Dr. Joshua Vaughan**
       - Write about how he has guided this team to the success it is at and he has always been there for us!
       - Are these appropriate to use?
         - [C.R.A.W. LAB](https://userweb.ucs.louisiana.edu/~jev9637/)
@@ -32,50 +50,110 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
         - [Github Page](https://github.com/DocVaughan)
         - Any other links to add?
       - Email: *joshua.vaughan@louisiana.edu*
+-->
 
-
-  - Add Ms. Yasmeen Qudsi
+<!--
+  ### *Ms. Yasmeen Qudsi*
       - Write about how Yasmeen has repeatedly gone out of her way to make sure this team is taken care of to make sure this team becomes a success!
           - This includes how she helped teach us to solder, helped water-jet four parts for us, given us some tricks and trades for making sure we are doing the correct "things" with electronics.
       - Is this appropriate to use?
         - [Ms. Qudsi - Louisiana Introduction Page](https://mechanical.louisiana.edu/node/163)
       - Any other links to add?
       - Email: *yasmeen.qudsi@louisiana.edu*
-
-<p> 
-</p>
-
-  <h3 style="text-align:center;"> Team Members (Joseph Stevens (Captain), Brennan Moeller, Benjamin Willis, Nathan Madsen, Adam Smith, etc.) </h3>
-
-  - Write about what each team member has done for this project and what they have to show for it.
-        - Should we have this as a standard picture or a flowing picture (where the people would be in frame for x seconds and then the next person goes into the frame?)
-    - Joe: Team Captain
-        - Any links to add?
-
-    - Brennan Moeller: Communications Director
-      - Brennan was responsible for implementing the Docker containers on all computers and creating an upgraded network system for the addition of the UAV to the previous system among other various tasks
-      - [Brennan's LinkedIn](https://www.linkedin.com/in/brennan-moeller-b31ba7163/)
-     <p align="center">
-     <img width="10%" src="images/Brennan_Headshot.jpg" alt=""/><br>
-     (This can be changed as needed)
-     </p>
-
-    ## OR Should we do this?
-    <div style="float:left; padding:25px; margin-left:10px;"><img src="images/Brennan_Headshot.jpg" title="Brennan" width="90px" /></div>
-
-    ### **Brennan Moeller: Communications Director**
-    - Brennan was responsible for implementing the Docker containers on all computers and creating an upgraded network system for the addition of the UAV to the previous system among other various tasks
-    - [Brennan's LinkedIn](https://www.linkedin.com/in/brennan-moeller-b31ba7163/)
+-->
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
-    ### **Ben: Manufacturing Director**
-    - Any links to add?
-    
-    - Nathan: Navigation Director (Is this the correct role for Nathan?)
-        - Any links to add?
-    - Adam Smith: Grad Student (He should have some sort of role since he has helped us put together the ASV)
-        - Any links to add?
-    - Anyone else?
+  <h3 style="text-align:center;"> Team Members </h3>
+
+  <h4 style="text-align:left;"><b>Joe: Team Captain</b></h4>
+
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/Joe_Headshot.jpg" title="Joe" width="90px" /></div>
+
+<br />
+ 
+  - Joe was responsible for leading this team. <!-- Please update for us -->
+  - Any links to add?
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+  <h4 style="text-align:left;"> <b> Brennan Moeller: Communications Director</b></h4>
+
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/Brennan_Headshot.jpg" title="Brennan" width="90px" /></div>
+
+<br />
+ 
+  - <!-- Should we add this?: Brennan was responsible for managing this teams comminications with our clients and advisors.--> Brennan was responsible for implementing the Docker containers on all computers and creating an upgraded network system for the addition of the UAV to the previous system among other various tasks 
+
+  - [Brennan's LinkedIn](https://www.linkedin.com/in/brennan-moeller-b31ba7163/)
+  
+<br />
+<br />
+<br />
+
+
+  <h4 style="text-align:left;"> <b> Ben: Manufacturing Director</b></h4>
+
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/Ben_Headshot.jpg" title="Ben" width="90px" /></div>
+
+<br />
+ 
+  - Ben was responsible for creating part files for the UAv. He was also resposible for inputting the UAV into simulation as well as testing the drone to make sure it works in both simulation and in real life. <!-- Please update for us -->
+
+  - [Ben's LinkedIn](www.linkedin.com/in/BenjaminRWillis)
+
+<br />
+<br />
+<br />
+
+
+
+  <h4 style="text-align:left;"> <b> Nathan: Navigation Director</b></h4>
+
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/Nathan_Headshot.jpg" title="Nathan" width="90px" /></div>
+
+<br />
+ 
+ <!-- Please update for us -->
+  - Any links to add?
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+  <h4 style="text-align:left;"> <b> Adam Smith: Grad Student</b></h4>
+
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/Adam_Headshot.jpg" title="Adam" width="90px" /></div>
+
+<br />
+ 
+ <!-- Please update for us -->
+  - Any links to add?
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<!-- Please add if there are other people involved in this years comp.   ### **Anyone else?** -->
 
   <h3 style="text-align:center;"> Design Documents </h3>
 
