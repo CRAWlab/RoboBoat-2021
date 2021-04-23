@@ -39,9 +39,30 @@
   - Any other links to add?
   - Email: *yasmeen.qudsi@louisiana.edu*
 
-
+<br />
+<br />
 
 - Talk about this being apart of the C.R.A.W. Lab and that our adivsors are Yasmeen and Dr. Vaughan?
 - Talk about this being the third year taking a part in the RoboBoat Competition?
 
 *More Coming soon...*
+
+## **For general inquiries:**
+<!-- modify this form HTML and place wherever you want your form -->
+
+<center>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label> <br />
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required=""> <br />
+    <label for="email-address">Email Address</label> <br />
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required=""> <br />
+    <label for="message">Message</label> <br />
+    <textarea rows="5" name="message" id="message" placeholder="Specify your inquiry here." required=""></textarea> <br />
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
+</form>
+<center>
+
+

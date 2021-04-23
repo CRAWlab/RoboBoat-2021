@@ -27,12 +27,12 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
 
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
-	<strong style="text-align:center;">Captain</strong><br>
+	<strong style="text-align:center;"></strong><br>
 	<img width="100%" src="images/Headshots/DocJV_Headshot.jpg"/><br>
 	<b style="text-align:center;">Dr. Joshua Vaughan</b>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 0%">
-	<strong style="text-align:center;">Vice Captain</strong><br>
+	<strong style="text-align:center;"></strong><br>
 	<img width="100%" src="images/Headshots/Yasmeen_Headshot.jpg"/><br>
 	<b style="text-align:center;">Ms. Yasmeen Qudsi</b>
 </p>
