@@ -1,119 +1,106 @@
-# Was taken from https://github.com/PX4/PX4-containers/blob/master/docker/Dockerfile_raspi
-#
-# PX4 build for arm-hf boards, such as
-# RPi, Parrot Bebop, and OcPoC-Zynq
-#
-# This contains the steps to build for the
-# POSIX Linux running on Raspberry Pi,
-# Parrot Bebop, or OcPoC-Zynq
-#
+# This is an auto generated Dockerfile for ros:ros-base
+# generated from docker_images/create_ros_image.Dockerfile.em 
 
-FROM debian:buster
-LABEL maintainer="Daniel Agar <daniel@agar.ca>"
+#This is from the ROS Docker Hub https://hub.docker.com/_/ros
+FROM ros:melodic-robot
 
-ENV DEBIAN_FRONTEND noninteractive
-ENV LANG C.UTF-8
-ENV LC_ALL C.UTF-8
+# install ros packages from osrf https://github.com/osrf/docker_images
+RUN apt-get update && apt-get install -y --no-install-recommends apt-utils \
+    ros-melodic-robot=1.4.1-0* \
+    && rm -rf /var/lib/apt/lists/*
 
-RUN apt-get update && apt-get -y --quiet --no-install-recommends install \
-bzip2 \
-ca-certificates \
-ccache \
-clang \
-clang-tidy \
-cmake \
-cppcheck \
-curl \
-default-jdk-headless \
-dirmngr \
-doxygen \
-file \
-g++ \
-g++-arm-linux-gnueabihf \
-gcc \
-gcc-arm-linux-gnueabihf \
-gdb \
-gdb-multiarch \
-git \
-gnupg \
-gosu \
-lcov \
-libfreetype6-dev \
-libgtest-dev \
-libpng-dev \
-libssl-dev \
-lsb-release \
-make \
-ninja-build \
-openssh-client \
-pkg-config \
-python3-dev \
-python3-pip \
-rsync \
-shellcheck \
-tzdata \
-unzip \
-wget \
-xsltproc \
-zip \
-&& apt-get -y autoremove \
-&& apt-get clean autoclean \
-&& rm -rf /var/lib/apt/lists/{apt,dpkg,cache,log} /tmp/* /var/tmp/*
+ENV OPENCV_VERSION 3.2.0
 
-# Install Python 3 pip build dependencies first.
-RUN update-alternatives --install /usr/bin/python python /usr/bin/python3 10
-RUN pip3 install wheel setuptools
+RUN sudo apt-get update && sudo apt-get install -y build-essential \
+    pkg-config \
+    unzip \
+    ros-melodic-mavros \
+    ros-melodic-mavros-extras \
+    nano \
+    htop \
+    tmux \
+    net-tools \
+    ros-melodic-mavros \
+    ros-melodic-mavros-extras \
+ ros-melodic-mavros-msgs \
+    ros-melodic-mavlink \
+    ros-melodic-cv-bridge
 
-# Python 3 dependencies installed by pip
-RUN pip3 install argparse argcomplete coverage cerberus empy jinja2 \
-matplotlib==3.0.* numpy packaging pkgconfig pyros-genmsg pyulog \
-pyyaml requests serial six toml psutil pyulog wheel
+RUN wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.$
+    && chmod +x install_geographiclib_datasets.sh \
+    && sudo ./install_geographiclib_datasets.sh \
+    && rm install_geographiclib_datasets.sh
 
-# astyle v3.1
-RUN wget -q https://downloads.sourceforge.net/project/astyle/astyle/astyle%203.1/astyle_3.1_linux.tar.gz -O /tmp/astyle.tar.gz \
-&& cd /tmp && tar zxf astyle.tar.gz && cd astyle/src \
-&& make -f ../build/gcc/Makefile -j$(nproc) && cp bin/astyle /usr/local/bin \
-&& rm -rf /tmp/*
+RUN git clone https://github.com/ros-drivers/video_stream_opencv.git
 
-# Gradle (Required to build Fast-RTPS-Gen)
-RUN wget -q "https://services.gradle.org/distributions/gradle-5.6.2-bin.zip" -O /tmp/gradle-5.6.2-bin.zip \
-&& mkdir /opt/gradle \
-&& cd /tmp \
-&& unzip -d /opt/gradle gradle-5.6.2-bin.zip \
-&& rm -rf /tmp/*
+# ----- Install OpenCV -----
+ENV OPENCV_VERSION 3.4.5
 
-ENV PATH "/opt/gradle/gradle-5.6.2/bin:$PATH"
+ ros-melodic-mavros-msgs \
+    ros-melodic-mavlink \
+    ros-melodic-cv-bridge
 
-# Fast-RTPS
-RUN git clone --recursive https://github.com/eProsima/Fast-DDS.git -b v1.8.2 /tmp/FastRTPS-1.8.2 \
-&& cd /tmp/FastRTPS-1.8.2 \
-&& mkdir build && cd build \
-&& cmake -DTHIRDPARTY=ON -DSECURITY=ON .. \
-&& cmake --build . --target install -- -j $(nproc) \
-&& rm -rf /tmp/*
+RUN wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.$
+    && chmod +x install_geographiclib_datasets.sh \
+    && sudo ./install_geographiclib_datasets.sh \
+    && rm install_geographiclib_datasets.sh
 
-# Fast-RTPS-Gen 1.0.4
-RUN git clone --recursive https://github.com/eProsima/Fast-DDS-Gen.git -b v1.0.4 /tmp/Fast-RTPS-Gen-1.0.4 \
-&& cd /tmp/Fast-RTPS-Gen-1.0.4 \
-&& gradle assemble \
-&& gradle install \
-&& rm -rf /tmp/*
+RUN git clone https://github.com/ros-drivers/video_stream_opencv.git
 
-# create user with id 1001 (jenkins docker workflow default)
-RUN useradd --shell /bin/bash -u 1001 -c "" -m user && usermod -a -G dialout user
+# ----- Install OpenCV -----
+ENV OPENCV_VERSION 3.4.5
 
-ENV CCACHE_UMASK=000
-ENV FASTRTPSGEN_DIR="/usr/local/bin/"
-ENV PATH="/usr/lib/ccache:$PATH"
-ENV TERM=xterm
-ENV TZ=UTC
+# install necessary libraries
+RUN apt-get -y install \
+        libjpeg-dev \
+        libtiff5-dev \
+#       libjasper-dev \
+#       libpng12-dev \
+        libavcodec-dev \
+        libavformat-dev \
+        libswscale-dev \
+        libv4l-dev \
+        libxvidcore-dev \
+        libx264-dev \
+        libgtk2.0-dev \
+        libatlas-base-dev \
+        gfortran \
+        python2.7-dev \
+        python3-dev \
+        python-pip \
+        python-numpy
 
-# SITL UDP PORTS
-EXPOSE 14556/udp
-EXPOSE 14557/udp
+# download latest source & contrib
+RUN cd /tmp && \
+        wget -O opencv.zip https://github.com/opencv/opencv/archive/$OPENCV_VERSION.zip && \
+        unzip opencv.zip
 
-# create and start as LOCAL_USER_ID
-COPY scripts/entrypoint.sh /usr/local/bin/entrypoint.sh
-ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+RUN cd /tmp && \
+        wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/$OPENCV_VERSION.zip && \
+        unzip opencv_contrib.zip
 
-CMD ["/bin/bash"]
+
+RUN cd /tmp/opencv-$OPENCV_VERSION && \
+        mkdir build && \
+        cd build && \
+        cmake -D CMAKE_BUILD_TYPE=RELEASE \
+        -D CMAKE_INSTALL_PREFIX=/usr/local \
+        -D INSTALL_C_EXAMPLES=ON \
+        -D BUILD_PYTHON_SUPPORT=ON \
+        -D BUILD_NEW_PYTHON_SUPPORT=ON \
+        -D INSTALL_PYTHON_EXAMPLES=ON \
+        -D OPENCV_EXTRA_MODULES_PATH=/tmp/opencv_contrib-$OPENCV_VERSION/modules \
+        -D BUILD_EXAMPLES=ON .. && \
+        make -j4 && \
+        make && \
+        make install && \
+        # ldconfig && \
+        make clean
+
+# cleanup source
+RUN cd /tmp && rm -rf opencv-$OPENCV_VERSION
+
+
+# cleanup source
+RUN cd /tmp && rm -rf opencv-$OPENCV_VERSION
+RUN rm -rf /var/lib/apt/lists/*
