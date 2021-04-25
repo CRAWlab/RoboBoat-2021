@@ -51,7 +51,7 @@
 <!-- modify this form HTML and place wherever you want your form -->
 
 <center>
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mjvjkqrw" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label> <br />
     <input type="text" name="name" id="full-name" placeholder="First and Last" required=""> <br />

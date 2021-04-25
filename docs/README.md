@@ -161,6 +161,6 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
   - [Skills Video: Sensor Optimization]()
   - [Skills Video: Power Management]()
   - [Demonstration Video]()
-  - [Gantt Chart]()
+  - [Gantt Chart](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/Senior%20Project%20Gantt_2021_04_19.xlsx)
 
 *More coming soon...*

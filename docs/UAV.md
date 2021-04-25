@@ -21,7 +21,22 @@
 
 ### Covid?
 
-### Design Fails (For sure is needed)
+<!-- Anything we want to add???? -->
+
+### Design Fails
+
+In any design process there are always calculations that are off and theoretical thoughts that one would think should work, but actually do not in the real world. These two were not shy to occur in our design process and we thought showing these fails would be an encoragement towards anyone who would like to take on a task like this one. 
+
+
+#### Tuning the PID Controller
+
+<center> 
+
+<img src="images/Tuning_PID.png" title="Tuning_PID" width="500px" />
+
+<center>
+
+
 
 ### Other
 
