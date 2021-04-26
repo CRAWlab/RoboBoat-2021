@@ -112,7 +112,7 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
 
 <br />
  
-  - Ben was responsible for creating part files for the UAv. He was also resposible for inputting the UAV into simulation as well as testing the drone to make sure it works in both simulation and in real life. <!-- Please update for us -->
+  - Ben was responsible for creating part files for the UAV. He was also resposible for inputting the UAV into simulation as well as testing the drone to make sure it works in both simulation and in real life. <!-- Please update for us -->
 
   - [Ben's LinkedIn](www.linkedin.com/in/BenjaminRWillis)
 
@@ -128,6 +128,12 @@ Welcome to the [University of Louisiana at Lafayette's](https://louisiana.edu) e
 
 <br />
  
+  - Nathan was responsible for creating custom mounts for the LiDAR Lite and Raspberry Pi Camera. He also was responsible for collecting image data from the OAK-D Stereo camera.
+
+ <!-- Please update for us -->
+
+  - [Nathan's LinkedIn](www.linkedin.com/in/nathan-madsen-ab9aa01a9)
+
  <!-- Please update for us -->
   - Any links to add?
 
