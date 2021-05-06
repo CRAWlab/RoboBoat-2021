@@ -39,7 +39,7 @@
 
 \author{\textbf{Captains}:\\Adam Smith and Joseph Stevens \\
 \textbf{Members}:\\Brennan Moeller, Nathan Madsen, Benjamin Willis\\
-\textbf{Coach}:\\Joshua Vaughan$^{1}$% <-this % stops a space
+\textbf{Coach}:\\Joshua Vaughan$^{1}$ and Yasmeen Qudsi% <-this % stops a space
 \thanks{$^{1}$Department of Mechanical Engineering,
         University of Louisiana at Lafayette, Lafayette, LA 70504, USA
         {\tt\small joshua.vaughan@louisiana.edu}}%
@@ -55,11 +55,11 @@
 \maketitle
 \thispagestyle{fancyplain}
 \begin{abstract}
-This report discusses the motivations behind the design choices and improvements to the University of Louisiana at Lafayette's first entry to RoboNation's RoboBoat Competition. Due to restrictions on group gatherings and university resources, this design has not been physically constructed or tested.  The Ragin' Cajuns RoboBoat is a catamaran-style vessel equipped with four thrusters in an ``X"-Configuration, enabling holonomic motion. The computer network communicates with individual components via the Robot Operating System (ROS). The main contributions from the 2020 Ragin' Cajuns RoboBoat team include a new control method, procurement of a larger electronics enclosure, upgrading the computer vision hardware, and creating a simulation of the system in Gazebo.
+This report discusses the motivations behind the design choices and improvements to the University of Louisiana at Lafayette's first entry to RoboNation's RoboBoat Competition. These improvements include adding a new enclosure to house new electronics to aid in the enhancement of sensor capabilities and for the lid of this enclosure to be the launching/landing pad for the new unmanned aerial vehicle (UAV) that was added. This UAV will be an autonomous mobile sensor for the ASV to aid in mapping, localization, and navigation. The Ragin' Cajuns RoboBoat is a catamaran-style vessel equipped with four thrusters in an ``X"-Configuration, enabling holonomic motion. The computer network communicates with individual components via the Robot Operating System (ROS). The main contributions from the 2021 Ragin' Cajuns RoboBoat team include improvements to localization of the system  by adding Real Time Kinematic (RTK) GPS system, OAK-D machine vision to the bow and stern, and adding a UAV to act as a mobile sensor for the system..
 \end{abstract}
 
 \section{Introduction}
-The 2020 RoboBoat competition requires teams to build an Autonomous Surface Vessel (ASV) capable of performing a variety of tasks. For an ASV to accomplish these tasks, several subsystems must function together. The University of Louisiana at Lafayette has developed a design to compete in the 2020 RoboBoat competition, shown in Figure \ref{fig:RoboBoat}. The ASV is equipped with two 2D LiDAR rangefinders and two stereo cameras for vision feedback, a GPS and IMU for localization, and four thrusters mounted in an ``X"--Configuration, enabling holonomic motion. Because the in-person portion of this year's competition was cancelled, the design process focused on upgrading and developing new tools used to test future designs.
+The 2021 RoboBoat competition requires teams to build an Autonomous Surface Vessel (ASV) capable of performing a variety of tasks. For an ASV to accomplish these tasks, several subsystems must function together. The University of Louisiana at Lafayette has developed a design to compete in the 2020 RoboBoat competition, shown in Figure \ref{fig:RoboBoat}. The ASV is equipped with two 2D LiDAR rangefinders and two stereo cameras for vision feedback, a GPS and IMU for localization, and four thrusters mounted in an ``X"--Configuration, enabling holonomic motion. Because the in-person portion of this year's competition was cancelled, the design process focused on upgrading and developing new tools used to test future designs.
 %
 \begin{figure}[tb]
 \centering
