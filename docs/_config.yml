@@ -23,7 +23,7 @@ email: RoboBoat2021@CRAWLAB.org
 description: >- # this means to ignore newlines until "baseurl:"
    This is to provide a base for the ULL RoboBoat 2021 website
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/RoboBoat-2021" # the subpath of your site, e.g. /blog
 url: "https://crawlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RoboBoat2021 #SHould we have this?
 github_username:  RoboBoat2021
