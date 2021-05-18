@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<font size="+3">Posts</font>
+{{ content }}
+<ul class="myposts">
+{% for post in site.posts %}
+<br>
+        <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <br>
+        <font size="+2"><a href="{{ post.url }}">{{ post.title}}</a></font>
+{% endfor %}
+</ul>
+  
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/51185851971/in/
+album-72157715576359036/" title="RoboBoat Testing - 14 May 2021 - 9"><img src="https://
+live.staticflickr.com/65535/51185851971_e6badc5cdc_k.jpg" width="2048" height="580" 
+alt="RoboBoat Testing - 14 May 2021 - 9"></a><script async src="//embedr.flickr.com/
+assets/client-code.js" charset="utf-8"></script>
+
+
+
+
+

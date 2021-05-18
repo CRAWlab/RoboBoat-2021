@@ -24,13 +24,13 @@ off our progress throughout the past nine months, so please take a look and enjo
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 
 20%">
 	<strong style="text-align:center;"></strong><br>
-	<img width="100%" src="images/Headshots/DocJV_Headshot.jpg"/><br>
+	<img width="100%" src="/assets/images/DocJV_Headshot.jpg"/><br>
 	<b style="text-align:center;">Dr. Joshua Vaughan</b>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 
 0%">
 	<strong style="text-align:center;"></strong><br>
-	<img width="100%" src="images/Headshots/Yasmeen_Headshot.jpg"/><br>
+	<img width="100%" src="/assets/images/Yasmeen_Headshot.jpg"/><br>
 	<b style="text-align:center;">Ms. Yasmeen Qudsi</b>
 </p>
 
@@ -80,8 +80,7 @@ node/163)
 
   <h4 style="text-align:left;"><b>Joe: Team Captain</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/
-Joe_Headshot.jpg" title="Joe" width="90px" /></div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Joe_Headshot.jpg" title="Joe" width="90px" /></div>
 
 <br />
  
@@ -97,8 +96,7 @@ Joe_Headshot.jpg" title="Joe" width="90px" /></div>
 
   <h4 style="text-align:left;"> <b> Brennan Moeller: Communications Director</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/
-Brennan_Headshot.jpg" title="Brennan" width="90px" /></div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Brennan_Headshot.jpg" title="Brennan" width="90px" /></div>
 
 <br />
  
@@ -117,8 +115,7 @@ various tasks
 
   <h4 style="text-align:left;"> <b> Ben: Manufacturing Director</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/
-Ben_Headshot.jpg" title="Ben" width="90px" /></div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Ben_Headshot.jpg" title="Ben" width="90px" /></div>
 
 <br />
  
@@ -136,8 +133,7 @@ works in both simulation and in real life. <!-- Please update for us -->
 
   <h4 style="text-align:left;"> <b> Nathan: Navigation Director</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/
-Nathan_Headshot.jpg" title="Nathan" width="90px" /></div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Nathan_Headshot.jpg" title="Nathan" width="90px" /></div>
 
 <br />
  
@@ -153,8 +149,7 @@ Nathan_Headshot.jpg" title="Nathan" width="90px" /></div>
 
   <h4 style="text-align:left;"> <b> Adam Smith: Grad Student</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/
-Adam_Headshot.jpg" title="Adam" width="90px" /></div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Adam_Headshot.jpg" title="Adam" width="90px" /></div>
 
 <br />
  

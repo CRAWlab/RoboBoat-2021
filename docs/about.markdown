@@ -12,7 +12,7 @@ permalink: /about/
 
   <h4 style="text-align:left;"><b>Dr. Joshua Vaughan</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/DocJV_Headshot.jpg" title="DocJV_Headshot" width="90px" /></div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/DocJV_Headshot.jpg" title="DocJV_Headshot" width="90px" /></div>
 
 <br />
 
@@ -26,7 +26,7 @@ permalink: /about/
 
   <h4 style="text-align:left;"><b>Ms. Yasmeen Qudsi</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;"><img src="images/Headshots/Yasmeen_Headshot.jpg" title="Yasmeen_Headshot" width="90px" /></div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Yasmeen_Headshot.jpg" title="Yasmeen_Headshot" width="90px" /></div>
 
 <br />
 

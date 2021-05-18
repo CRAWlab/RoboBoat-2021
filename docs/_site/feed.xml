@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-17T18:11:30-05:00</updated><id>/feed.xml</id><title type="html">RoboBoat 2021</title><subtitle>This is to provide a base for the ULL RoboBoat 2021 website</subtitle><entry><title type="html">Welcome to ULL’s 2021 RoboBoat Team!</title><link href="/jekyll/update/2021/05/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to ULL’s 2021 RoboBoat Team!" /><published>2021-05-11T15:36:39-05:00</published><updated>2021-05-11T15:36:39-05:00</updated><id>/jekyll/update/2021/05/11/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/05/11/welcome-to-jekyll.html">&lt;h2 id=&quot;2021-ul-lafayette-ragin-cajuns-roboboat&quot;&gt;2021 UL Lafayette Ragin’ Cajuns RoboBoat&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-18T00:12:42-05:00</updated><id>/feed.xml</id><title type="html">RoboBoat 2021</title><subtitle>This is to provide a base for the ULL RoboBoat 2021 website</subtitle><entry><title type="html">Welcome to ULL’s 2021 RoboBoat Team!</title><link href="/jekyll/update/2021/05/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to ULL’s 2021 RoboBoat Team!" /><published>2021-05-11T15:36:39-05:00</published><updated>2021-05-11T15:36:39-05:00</updated><id>/jekyll/update/2021/05/11/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/05/11/welcome-to-jekyll.html">&lt;h2 id=&quot;2021-ul-lafayette-ragin-cajuns-roboboat&quot;&gt;2021 UL Lafayette Ragin’ Cajuns RoboBoat&lt;/h2&gt;
 
 &lt;p&gt;Welcome to the &lt;a href=&quot;https://louisiana.edu&quot;&gt;University of Louisiana at Lafayette’s&lt;/a&gt; entry 
 into the &lt;a href=&quot;https://roboboat.org/programs/2021/&quot;&gt;2021 RoboBoat Competition&lt;/a&gt;. This is 
@@ -13,13 +13,13 @@ off our progress throughout the past nine months, so please take a look and enjo
 &lt;p style=&quot;float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 
 20%&quot;&gt;
 	&lt;strong style=&quot;text-align:center;&quot;&gt;&lt;/strong&gt;&lt;br /&gt;
-	&lt;img width=&quot;100%&quot; src=&quot;images/Headshots/DocJV_Headshot.jpg&quot; /&gt;&lt;br /&gt;
+	&lt;img width=&quot;100%&quot; src=&quot;/assets/images/DocJV_Headshot.jpg&quot; /&gt;&lt;br /&gt;
 	&lt;b style=&quot;text-align:center;&quot;&gt;Dr. Joshua Vaughan&lt;/b&gt;
 &lt;/p&gt;
 &lt;p style=&quot;float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 
 0%&quot;&gt;
 	&lt;strong style=&quot;text-align:center;&quot;&gt;&lt;/strong&gt;&lt;br /&gt;
-	&lt;img width=&quot;100%&quot; src=&quot;images/Headshots/Yasmeen_Headshot.jpg&quot; /&gt;&lt;br /&gt;
+	&lt;img width=&quot;100%&quot; src=&quot;/assets/images/Yasmeen_Headshot.jpg&quot; /&gt;&lt;br /&gt;
 	&lt;b style=&quot;text-align:center;&quot;&gt;Ms. Yasmeen Qudsi&lt;/b&gt;
 &lt;/p&gt;
 
@@ -64,8 +64,7 @@ node/163)
 
 &lt;h4 style=&quot;text-align:left;&quot;&gt;&lt;b&gt;Joe: Team Captain&lt;/b&gt;&lt;/h4&gt;
 
-&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;images/Headshots/
-Joe_Headshot.jpg&quot; title=&quot;Joe&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;/assets/images/Joe_Headshot.jpg&quot; title=&quot;Joe&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -81,8 +80,7 @@ Joe_Headshot.jpg&quot; title=&quot;Joe&quot; width=&quot;90px&quot; /&gt;&lt;/di
 
 &lt;h4 style=&quot;text-align:left;&quot;&gt; &lt;b&gt; Brennan Moeller: Communications Director&lt;/b&gt;&lt;/h4&gt;
 
-&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;images/Headshots/
-Brennan_Headshot.jpg&quot; title=&quot;Brennan&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;/assets/images/Brennan_Headshot.jpg&quot; title=&quot;Brennan&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -104,8 +102,7 @@ various tasks&lt;/p&gt;
 
 &lt;h4 style=&quot;text-align:left;&quot;&gt; &lt;b&gt; Ben: Manufacturing Director&lt;/b&gt;&lt;/h4&gt;
 
-&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;images/Headshots/
-Ben_Headshot.jpg&quot; title=&quot;Ben&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;/assets/images/Ben_Headshot.jpg&quot; title=&quot;Ben&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -126,8 +123,7 @@ works in both simulation and in real life. &lt;!-- Please update for us --&gt;&l
 
 &lt;h4 style=&quot;text-align:left;&quot;&gt; &lt;b&gt; Nathan: Navigation Director&lt;/b&gt;&lt;/h4&gt;
 
-&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;images/Headshots/
-Nathan_Headshot.jpg&quot; title=&quot;Nathan&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;/assets/images/Nathan_Headshot.jpg&quot; title=&quot;Nathan&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -145,8 +141,7 @@ Nathan_Headshot.jpg&quot; title=&quot;Nathan&quot; width=&quot;90px&quot; /&gt;&
 
 &lt;h4 style=&quot;text-align:left;&quot;&gt; &lt;b&gt; Adam Smith: Grad Student&lt;/b&gt;&lt;/h4&gt;
 
-&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;images/Headshots/
-Adam_Headshot.jpg&quot; title=&quot;Adam&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; padding:25px; margin-left:0px;&quot;&gt;&lt;img src=&quot;/assets/images/Adam_Headshot.jpg&quot; title=&quot;Adam&quot; width=&quot;90px&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

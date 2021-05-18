@@ -19,5 +19,5 @@ Thank you [Hammond Manufacturing](http://hammondmfg.com/) and [AWG](https://www.
 <br />
 <br />
 
-<a href="http://hammondmfg.com/"><img src="images/Sponsors/hammondmfg.PNG" title="Hammond" width="201px" /></a>
-<a href="https://www.awc-inc.com/"><img src="images/Sponsors/logo_awc.jpg" title="AWC" width="110px" /></a>
+<a href="http://hammondmfg.com/"><img src="/assets/images/hammondmfg.PNG" title="Hammond" width="201px" /></a>
+<a href="https://www.awc-inc.com/"><img src="/assets/images/logo_awc.jpg" title="AWC" width="110px" /></a>
