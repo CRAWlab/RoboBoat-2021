@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/RoboBoat-2021" # the subpath of your site, e.g. /blog
 url: "https://crawlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 flickr_username:  CRAWLAB
-github_username:  CRAWlab/RoboBoat-2021
+github_username:  CRAWlab
 
 # Build settings
 theme: minima

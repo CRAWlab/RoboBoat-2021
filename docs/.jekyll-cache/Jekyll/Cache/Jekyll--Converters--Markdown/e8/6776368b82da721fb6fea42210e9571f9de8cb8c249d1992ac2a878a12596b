@@ -1,24 +1,20 @@
----
-layout: page
-title: The Journey
-permalink: /The Jouney/
----
+I"m<h2 id="2021-ul-lafayette-ragin-cajuns-journey">2021 UL Lafayette Ragin’ Cajuns Journey</h2>
+<ul>
+  <li>Here we will show off the main progress of the progress on this project, what it entailed, what it is really just all about. For Instance:</li>
+</ul>
 
-
-## 2021 UL Lafayette Ragin' Cajuns Journey
-- Here we will show off the main progress of the progress on this project, what it entailed, what it is really just all about. For Instance:
-
-## Navigating the Pond
+<h2 id="navigating-the-pond">Navigating the Pond</h2>
 <!-- blank line -->
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/51185898751/in/album-72157715576359036/" title="RoboBoat Testing - 14 May 2021 - 26"><img src="https://live.staticflickr.com/31337/51185898751_c28c31de28_k.jpg" width="1920" height="720" alt="RoboBoat Testing - 14 May 2021 - 26"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<!-- blank line -->
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/51185898751/in/album-72157715576359036/" title="RoboBoat Testing - 14 May 2021 - 26"><img src="https://live.staticflickr.com/31337/51185898751_c28c31de28_k.jpg" width="1920" height="720" alt="RoboBoat Testing - 14 May 2021 - 26" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!-- blank line --></p>
 
-- Here is where we can show it moving in video in the pond
-- Also, here is where we can bring up why the [2019 ULL Team](https://userweb.ucs.louisiana.edu/~jev9637/research/RoboBoat_2019.html) created the boat to be in holonomic motion. 
+<ul>
+  <li>Here is where we can show it moving in video in the pond</li>
+  <li>Also, here is where we can bring up why the <a href="https://userweb.ucs.louisiana.edu/~jev9637/research/RoboBoat_2019.html">2019 ULL Team</a> created the boat to be in holonomic motion.</li>
+</ul>
 
 <!-- There will need to be a vimeo account set up for videos to take place -->
-
 
 <!-- Dont Worry Brennan. I kept everything you had written before right here
 
@@ -86,4 +82,5 @@ permalink: /The Jouney/
 
 -->
 
-*More Coming soon...*
+<p><em>More Coming soon…</em></p>
+:ET

@@ -7,7 +7,7 @@ permalink: /sponsors/
 
 ## Sponsors 
 
-Thank you [Hammond Manufacturing](http://hammondmfg.com/) and [AWG](https://www.awc-inc.com/)...
+Thank you [Hammond Manufacturing](http://hammondmfg.com/) and [AWG](https://www.awc-inc.com/) for donating the 
 <br />
 <br />
 
