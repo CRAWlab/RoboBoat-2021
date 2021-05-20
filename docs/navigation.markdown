@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Navigation
-permalink: /navigation/
+title: The Journey
+permalink: /The Jouney/
 ---
 
 
-## 2021 UL Lafayette Ragin' Cajuns Navigation
+## 2021 UL Lafayette Ragin' Cajuns Journey
 - Here we will show off the main progress of the progress on this project, what it entailed, what it is really just all about. For Instance:
 
 ## Navigating the Pond

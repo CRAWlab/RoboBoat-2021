@@ -2,6 +2,7 @@
 layout: post
 title:  "Let's Meet the Team!"
 date:   2021-05-11 15:36:39 -0500
+categories: jekyll update
 ---
 
 ## 2021 UL Lafayette Ragin' Cajuns RoboBoat
@@ -20,17 +21,17 @@ off our progress throughout the past nine months, so please take a look and enjo
 
 
 
-<p style="float:left;text-align:center; width: 30%; margin-right: 20%; margin-left: 
-10%">
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 
+20%">
 	<strong style="text-align:center;"></strong><br>
-  <a title="DocJV_Headshot"><img src="https://live.staticflickr.com/65535/51190842752_cfb54aa94d_q.jpg" width="200" height="200" alt="DocJV_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  Dr. Vaughan
+	<img width="100%" src="/assets/images/DocJV_Headshot.jpg"/><br>
+	<b style="text-align:center;">Dr. Joshua Vaughan</b>
 </p>
-<p style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 
 0%">
 	<strong style="text-align:center;"></strong><br>
-  <a title="Yasmeen_Headshot"><img src="https://live.staticflickr.com/65535/51191552461_d90d69228b_q.jpg" width="200" height="200" alt="Yasmeen_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  Ms. Yasmeen Qudsi
+	<img width="100%" src="/assets/images/Yasmeen_Headshot.jpg"/><br>
+	<b style="text-align:center;">Ms. Yasmeen Qudsi</b>
 </p>
 
 
@@ -79,9 +80,7 @@ node/163)
 
   <h4 style="text-align:left;"><b>Joe: Team Captain</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Joe_Headshot"><img src="https://live.staticflickr.com/65535/51191552431_e8c16eaa94_q.jpg" width="200" height="200" alt="Joe_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Joe_Headshot.jpg" title="Joe" width="90px" /></div>
 
 <br />
  
@@ -92,35 +91,37 @@ node/163)
 <br />
 <br />
 <br />
-<br />
+
 
 
   <h4 style="text-align:left;"> <b> Brennan Moeller: Communications Director</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;">
- <a title="Brennan_Headshot"><img src="https://live.staticflickr.com/65535/51192322434_b15482af99_q.jpg" width="200" height="200" alt="Brennan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Brennan_Headshot.jpg" title="Brennan" width="90px" /></div>
 
 <br />
  
-  - Brennan was responsible for managing this teams comminications with our clients and advisors. Brennan was also responsible for implementing the Docker containers on all computers and creating an upgraded network system for the addition of the UAV to the previous system among other various tasks 
-
+  - <!-- Should we add this?: Brennan was responsible for managing this teams 
+comminications with our clients and advisors.--> Brennan was responsible for 
+implementing the Docker containers on all computers and creating an upgraded 
+network system for the addition of the UAV to the previous system among other 
+various tasks 
 
   - [Brennan's LinkedIn](https://www.linkedin.com/in/brennan-moeller-b31ba7163/)
   
+<br />
 <br />
 <br />
 
 
   <h4 style="text-align:left;"> <b> Ben: Manufacturing Director</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Ben_Headshot"><img src="https://live.staticflickr.com/65535/51191767903_2a55b4302c_q.jpg" width="200" height="200" alt="Ben_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Ben_Headshot.jpg" title="Ben" width="90px" /></div>
 
 <br />
  
-  - Ben was responsible for creating part files for the UAV. He was also resposible for inputting the UAV into simulation as well as testing the drone to make sure it works in both simulation and in real life. Finally, Ben was also responsible for creating this webpage from scratch.
+  - Ben was responsible for creating part files for the UAv. He was also resposible 
+for inputting the UAV into simulation as well as testing the drone to make sure it 
+works in both simulation and in real life. <!-- Please update for us -->
 
   - [Ben's LinkedIn](www.linkedin.com/in/BenjaminRWillis)
 
@@ -132,15 +133,12 @@ node/163)
 
   <h4 style="text-align:left;"> <b> Nathan: Navigation Director</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Nathan_Headshot"><img src="https://live.staticflickr.com/65535/51190842782_decb7ac183_q.jpg" width="200" height="200" alt="Nathan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Nathan_Headshot.jpg" title="Nathan" width="90px" /></div>
 
 <br />
  
  <!-- Please update for us -->
-  - Nathan was responsible for creating custom mounts for the LiDAR Lite and Raspberry Pi Camera. He also was responsible for collecting image data from the OAK-D Stereo camera.
-  - [Nathan's LinkedIn](www.linkedin.com/in/nathan-madsen-ab9aa01a9)
+  - Any links to add?
 
 <br />
 <br />
@@ -151,9 +149,7 @@ node/163)
 
   <h4 style="text-align:left;"> <b> Adam Smith: Grad Student</b></h4>
 
-  <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Adam_Headshot"><img src="https://live.staticflickr.com/65535/51192616025_1196e159dc_q.jpg" width="200" height="200" alt="Adam_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </div>
+  <div style="float:left; padding:25px; margin-left:0px;"><img src="/assets/images/Adam_Headshot.jpg" title="Adam" width="90px" /></div>
 
 <br />
  
@@ -178,3 +174,4 @@ else?** -->
   - [Gantt Chart](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/
 Senior%20Project%20Gantt_2021_04_19.xlsx)
 
+*More coming soon...*
