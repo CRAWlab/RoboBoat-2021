@@ -25,7 +25,7 @@ fabrication"></a><script async src="//embedr.flickr.com/assets/client-code.js" c
 
 <br />
 
-<a ><img style="float: left;" src="https://live.staticflickr.com/65535/51194812944_652363c40e_o.png" width="425" alt="Thrusters"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a ><img style="float: left;" src="https://live.staticflickr.com/65535/51195996661_f4a9022b79_o.png" width="425" alt="Thrusters"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 After the hull and bridge were coated for marine use, they were assembled and the electronics were installed. The first of the many electronics to be installed on the system, were the four Blue Robotics T-200 Thursters. These trusters were positioned on the ASV in an "X"-configuration to allow for holonomic motion, which allows for pure surge, sway, and yaw movement, as seen in the video below. Due to the pure surge, sway, and yaw movement, this boat is able to make tight turns as well as move directly left or right without the need to move forward or backwards such as a standard boat. This setup allows the ASV to parallel park easier than a traditional boat, and it allows for quicker movements around buoys, which is a big advantage for this competition. In the video below, a demonstration is presented on how this boat maneuvers in the water. Also, this video shows the very first time this ASV touched the water and moved under its own power!
 
@@ -47,7 +47,7 @@ After this ASV was tested and seen to be a possible design, it was now time to a
 <br />
 <br />
 
-<a ><img style="float: left;" src="https://live.staticflickr.com/65535/51195403870_0d3121bf4b_o.png" height="260" alt="Broken Thruster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a ><img style="float: left;" src="https://live.staticflickr.com/65535/51196213438_586395f948_o.png" height="260" alt="Broken Thruster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br />
 
