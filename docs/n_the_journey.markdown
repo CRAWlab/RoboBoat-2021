@@ -3,7 +3,11 @@ layout: page
 title: The Journey
 permalink: /The Jouney/
 ---
-
+<!-- There will need to be a vimeo account set up for videos to take place -->
+<!-- Currently Flickr Account one can use to import content is:
+Username: C00023498@louisiana.edu
+Pas: CF2Yh66XURUUbzr
+-->
 <a ><img style="float: right;" src="https://live.staticflickr.com/7868/32495184317_66c29b5c3e_o.jpg" height="260" alt="Waterjetting for 
 RoboBoat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> In August of 2018, a group of 4 undergraduate students set out to compete in the RoboBoat 2019 Competition with the help from their advisor, Dr. Vaughan. This team developed the Autonomous Surface Vessel (ASV) from scratch. This ASV had to follow specific [guidelines](https://robonation.org/app/uploads/sites/3/2019/10/RoboBoat-2019-Rules-and-Task-Description_v2.pdf) given by [RoboNation](https://robonation.org/) and a few items to note from these guidelines is that the ASV must be autonomous, configured with an E-Stop, and have the electronics protected from water. It must float in water and be propelled by the teams choice of actuation. The ULL 2019 RoboBoat Team decided to go a different route than most other teams, which was to create a pontoon boat with thrusters in an "X"-configuration enabling holonomic motion. The materials used to build the hull for the ASV was foam, adhesive, epoxy, fiberglass, and paint. The foam was cut into planar shapes with a waterjet, which were then glued together and sanded to form a pontoon's hull structure. From there, the team prepared the hulls to marry the bridge, which holds the pontoon stable as it is moves in the water. 
 <br />
@@ -104,30 +108,33 @@ In August of 2020, a group of 4 undergrads took on the challenge of improving up
 
 <a ><img style="float: left;" src="https://live.staticflickr.com/65535/51193887202_521475a42e_o.png" height="265" alt="51194800123_08104afebc_o"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-From there the team conducted research on the different possibilities for the UAV in this competition. These possibilities included Quadcopter, Hexacopters, and VTOLs. The final design choice was a quadcopter UAV, due to its versatility and size. The team had to meet certain [design specifications](https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf) and a few to note were the UAV must be autonomous, positively buoyant, and there must be a kill switch. This led to the creation of the UAV located on the left. The Team decided that the main body would be DJI's F450 Frame. To save on weight and add versatility to the system, custom plates were made out of carbon fiber. The main customization occurred with the enclosures, which were 3-D printed out of PLA and ABS to ensure that the electronics would be in enclosures designed for IP 34 standards. Also, to allow for the UAV to be positively buoyant, the team 3-D printed fasteners that would lock onto industrial backer rod, which was determined to allow the UAV to float in the water. For autonomy, the UAV is using the Pixhawk 4 autopilot controller and a Raspberry Pi 4 Model B to send a and receive MAVROS messages for control. Since the UAV is using the Pixhawk 4 and a companion computer, this allowed for the implementation of ROS on this system. Control messages, specifically [MAVLink](http://wiki.ros.org/mavlink) messages, will be sent to the flight controller via [mavros](http://wiki.ros.org/mavros).
+From there the team conducted research on the different possibilities for the UAV in this competition. These possibilities included Quadcopter, Hexacopters, and VTOLs. The final design choice was a quadcopter UAV, due to its versatility and size. The team had to meet certain [design specifications](https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf) and a few to note were the UAV must be fully autonomous, meet the measurement requirements and also be positively buoyant. This led to the creation of the UAV located on the left. The Team decided that the main body would be DJI's F450 Frame. This frame was chosen due to it meeting all the measurement contraints. The measurement contraints were that the UAV and ASV must be no greater than 6 feet long, 3 fet wide, and 3 feet tall. As noted in the image below, the UAV addition to the ASV does in fact meet all of the measurement contraints to compete at this competition. 
+
+<a ><img src="https://live.staticflickr.com/65535/51195996173_9dfcc570b1_o.png" height="260" alt="RoboBoat_Figures_Page_01"></a><script 
+async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a ><img style="float: right;" src="https://live.staticflickr.com/65535/51196560939_28cda73f26_o.png" height="260" alt="RoboBoat_Figures_Page_03"></a><script 
+async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+To save on weight and add versatility to the UAV, custom plates were made out of carbon fiber. The main customization occurred with the enclosures, which were 3-D printed out of PLA and ABS to ensure that the electronics would be in enclosures designed for IP 34 standards. Also, to allow for the UAV to be positively buoyant, the team 3-D printed fasteners that would lock onto industrial backer rod, which was determined to allow the UAV to float on the water. For autonomy, the UAV is using the Pixhawk 4 autopilot controller and a Raspberry Pi 4 Model B to send a and receive MAVROS messages for control. Since the UAV is using the Pixhawk 4 and a companion computer, this allowed for the implementation of ROS on this system. Control messages, specifically [MAVLink](http://wiki.ros.org/mavlink) messages, will be sent to the flight controller via [mavros](http://wiki.ros.org/mavros). This UAV also has two different type of global positioning measurements incorporated for use. These are global positioning system (GPS) and real time kinematic (RTK) positioning. By being able to use more than one type of global positioning measurement, the system as a whole will be able to increase its precision and accuracy when moving. There is also an RC Reciever that allows for manual take over with an RC Transmitter.
 
 <br />
-
-<center>
-
-<a ><img src="https://live.staticflickr.com/65535/51194797273_414859cfcf_o.png" height="260" alt="uav_fully_labeled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a ><img src="https://live.staticflickr.com/65535/51185160437_2f98841f58_o.jpg" height="260" alt="RoboBoat Testing - 14 May 2021 - 3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-</center>
-
 <br />
-<br />
+
+<a ><img style="float: left;" src="https://live.staticflickr.com/65535/51196560909_4d1e4ed1a4_o.png" height="260" alt="RoboBoat_Figures_Page_02"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 As the UAV was being built, there were improvements being made to the ASV. First and foremost, the new electronics enclosure needed to be mounted to the ASV. So, some of the team took a weekend to cut all of the necessary fittings and install the enclosure onto the ASV. Once the new enclosure was mounted, all of the old electronics needed to be transferred from the old enclosure to the new enclosure. After that task was completed, the team decided to change all of its ZED stereo cameras for the new [OAK-D](https://store.opencv.ai/products/oak-d) machine vision sensors that were obtained through the [OAK-D AI Competition](https://opencv.org/opencv-ai-competition-2021/). Once the two cameras were installed on the bow and stern of the ASV, the next thing to install was the Hokuyo Scanning Rangefinder on the stern ASV. The results of the installation can be seen below. 
 
+<br />
+<br />
+<br />
+
 <center>
 
-<a ><img src="https://live.staticflickr.com/65535/51186651194_e8b75abd76_o.jpg" height="260" alt="Development for RoboBoat 2021 - 10"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a ><img src="https://live.staticflickr.com/65535/51186651194_e8b75abd76_o.jpg" height="260" alt="Development for 
+RoboBoat 2021 - 10"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a ><img src="https://live.staticflickr.com/65535/51185178262_39de37da22_o.jpg" height="260" alt="Development for RoboBoat 2021 - 15"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a ><img src="https://live.staticflickr.com/65535/51185870331_5f3c96df04_o.jpg" height="260" alt="Development for RoboBoat 2021 - 20"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
 
@@ -173,11 +180,6 @@ autonomous system? Tune in next year for future details as the content on this p
 
 </center>
 
-<!-- There will need to be a vimeo account set up for videos to take place -->
-<!-- Currently Flickr Account one can use to import content is:
-Username: C00023498@louisiana.edu
-Pas: CF2Yh66XURUUbzr
--->
 
 <!-- Dont Worry Brennan. I kept everything you had written before right here
 

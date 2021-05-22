@@ -182,11 +182,13 @@ node/163)
 <!-- Please add if there are other people involved in this years comp.   ### **Anyone 
 else?** -->
 
-  <h3 > Design Documents </h3> 
-  
-  - [TDR]()
-  - [Skills Video: Sensor Optimization]()
-  - [Demonstration Video]()
-  - [Gantt Chart](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/Senior%20Project%20Gantt_2021_04_19.xlsx)
+<h3 > ULL 2021 RoboBoat Competition Details </h3> 
 
+ - [TDR]()
+ - [Skills Video: Sensor Optimization]()
+ - [Demonstration Video]()
+ - [Flickr](https://www.flickr.com/photos/crawlab/albums/72157715576359036/with/51186939985/)
+ - [Gihub Repository](https://github.com/CRAWlab/RoboBoat-2021)
+ - [Vimeo](https://vimeo.com/channels/ullafayetteroboboat)
+ - [Team Poster](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/MCHE_484_Final_Poster.pdf)
 

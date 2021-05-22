@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://crawlab.github.io/RoboBoat-2021/feed.xml" rel="self" type="application/atom+xml" /><link href="https://crawlab.github.io/RoboBoat-2021/" rel="alternate" type="text/html" /><updated>2021-05-22T09:56:59-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/feed.xml</id><title type="html">RoboBoat 2021</title><subtitle>2021 University of Louisiana at Lafayette RoboBoat Team's Website! It is an honor to be able to show off our work to all of you!</subtitle><entry><title type="html">Meet the Team</title><link href="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/" rel="alternate" type="text/html" title="Meet the Team" /><published>2021-05-11T00:00:00-05:00</published><updated>2021-05-11T00:00:00-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/welcome-to-jekyll</id><content type="html" xml:base="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/">&lt;h1 style=&quot;text-align:center;&quot;&gt; 2021 UL Lafayette Ragin' Cajuns RoboBoat &lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://crawlab.github.io/RoboBoat-2021/feed.xml" rel="self" type="application/atom+xml" /><link href="https://crawlab.github.io/RoboBoat-2021/" rel="alternate" type="text/html" /><updated>2021-05-22T14:45:14-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/feed.xml</id><title type="html">RoboBoat 2021</title><subtitle>2021 University of Louisiana at Lafayette RoboBoat Team's Website! It is an honor to be able to show off our work to all of you!</subtitle><entry><title type="html">Meet the Team</title><link href="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/" rel="alternate" type="text/html" title="Meet the Team" /><published>2021-05-11T00:00:00-05:00</published><updated>2021-05-11T00:00:00-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/welcome-to-jekyll</id><content type="html" xml:base="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/">&lt;h1 style=&quot;text-align:center;&quot;&gt; 2021 UL Lafayette Ragin' Cajuns RoboBoat &lt;/h1&gt;
 
 &lt;p&gt;Welcome to the &lt;a href=&quot;https://louisiana.edu&quot;&gt;University of Louisiana at Lafayette’s&lt;/a&gt; entry 
 into the &lt;a href=&quot;https://roboboat.org/programs/2021/&quot;&gt;2021 RoboBoat Competition&lt;/a&gt;. This is 
@@ -184,11 +184,14 @@ node/163)
 &lt;!-- Please add if there are other people involved in this years comp.   ### **Anyone 
 else?** --&gt;
 
-&lt;h3&gt; Design Documents &lt;/h3&gt;
+&lt;h3&gt; ULL 2021 RoboBoat Competition Details &lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;TDR&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Skills Video: Sensor Optimization&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Demonstration Video&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/Senior%20Project%20Gantt_2021_04_19.xlsx&quot;&gt;Gantt Chart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/crawlab/albums/72157715576359036/with/51186939985/&quot;&gt;Flickr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CRAWlab/RoboBoat-2021&quot;&gt;Gihub Repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vimeo.com/channels/ullafayetteroboboat&quot;&gt;Vimeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/MCHE_484_Final_Poster.pdf&quot;&gt;Team Poster&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">2021 UL Lafayette Ragin' Cajuns RoboBoat</summary></entry></feed>

@@ -27,6 +27,8 @@ baseurl: "/RoboBoat-2021" # the subpath of your site, e.g. /blog
 url: "https://crawlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 flickr_username:  CRAWLAB
 github_username:  CRAWlab
+vimeo_username:  ullafayetteroboboat
+twitter_username:  Doc_Vaughan
 
 # Build settings
 theme: minima

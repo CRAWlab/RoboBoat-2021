@@ -17,6 +17,19 @@ competition was mainly a group of undergrads, who were looking for a senior desi
 of the ULL Ragin' Cajun  RoboBoat 2020 team, the team decided to take this competition on as their senior project. There was a lot the team had to figure out and develop, but this website reflects our accomplishments and we do hope that you all enjoy seeing our progress and future development in the  RoboBoat Competition. 
 
 Please see below for contact information and general inquiries.
+
+<br />
+
+<h3 > ULL 2021 RoboBoat Competition Details </h3> 
+
+ - [TDR]()
+ - [Skills Video: Sensor Optimization]()
+ - [Demonstration Video]()
+ - [Flickr](https://www.flickr.com/photos/crawlab/albums/72157715576359036/with/51186939985/)
+ - [Gihub Repository](https://github.com/CRAWlab/RoboBoat-2021)
+ - [Vimeo](https://vimeo.com/channels/ullafayetteroboboat)
+ - [Team Poster](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/MCHE_484_Final_Poster.pdf)
+
 <br />
 <br />
 
@@ -77,5 +90,3 @@ Please see below for contact information and general inquiries.
   <input type="submit" value="Submit">
 </form>
 <center>
-
-

@@ -42,7 +42,12 @@
   </header>
 
   <div class="post-content">
-    <p><a><img style="float: right;" src="https://live.staticflickr.com/7868/32495184317_66c29b5c3e_o.jpg" height="260" alt="Waterjetting for  RoboBoat" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> In August of 2018, a group of 4 undergraduate students set out to compete in the RoboBoat 2019 Competition with the help from their advisor, Dr. Vaughan. This team developed the Autonomous Surface Vessel (ASV) from scratch. This ASV had to follow specific <a href="https://robonation.org/app/uploads/sites/3/2019/10/RoboBoat-2019-Rules-and-Task-Description_v2.pdf">guidelines</a> given by <a href="https://robonation.org/">RoboNation</a> and a few items to note from these guidelines is that the ASV must be autonomous, configured with an E-Stop, and have the electronics protected from water. It must float in water and be propelled by the teams choice of actuation. The ULL 2019 RoboBoat Team decided to go a different route than most other teams, which was to create a pontoon boat with thrusters in an “X”-configuration enabling holonomic motion. The materials used to build the hull for the ASV was foam, adhesive, epoxy, fiberglass, and paint. The foam was cut into planar shapes with a waterjet, which were then glued together and sanded to form a pontoon’s hull structure. From there, the team prepared the hulls to marry the bridge, which holds the pontoon stable as it is moves in the water. 
+    <!-- There will need to be a vimeo account set up for videos to take place -->
+<!-- Currently Flickr Account one can use to import content is:
+Username: C00023498@louisiana.edu
+Pas: CF2Yh66XURUUbzr
+-->
+<p><a><img style="float: right;" src="https://live.staticflickr.com/7868/32495184317_66c29b5c3e_o.jpg" height="260" alt="Waterjetting for  RoboBoat" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> In August of 2018, a group of 4 undergraduate students set out to compete in the RoboBoat 2019 Competition with the help from their advisor, Dr. Vaughan. This team developed the Autonomous Surface Vessel (ASV) from scratch. This ASV had to follow specific <a href="https://robonation.org/app/uploads/sites/3/2019/10/RoboBoat-2019-Rules-and-Task-Description_v2.pdf">guidelines</a> given by <a href="https://robonation.org/">RoboNation</a> and a few items to note from these guidelines is that the ASV must be autonomous, configured with an E-Stop, and have the electronics protected from water. It must float in water and be propelled by the teams choice of actuation. The ULL 2019 RoboBoat Team decided to go a different route than most other teams, which was to create a pontoon boat with thrusters in an “X”-configuration enabling holonomic motion. The materials used to build the hull for the ASV was foam, adhesive, epoxy, fiberglass, and paint. The foam was cut into planar shapes with a waterjet, which were then glued together and sanded to form a pontoon’s hull structure. From there, the team prepared the hulls to marry the bridge, which holds the pontoon stable as it is moves in the water. 
 <br /></p>
 
 <p>The preparation that was completed was adding a first layer of epoxy to both the hulls and the bridge, which would take 18 to 24 hours to cure. Next, was inlaying fiberglass sheets on top of the epoxy. This was completed by adding an inner and outer layer of fiberglass right on top of eachother. A final layer of epoxy was added ontop of the fiberglass, which then was left to cure for 18 to 24 hours. After that, a fairing compound was used, which was layed over the epoxy to seal the pores of the materials so the ASV can be used as a marine vessel. This fairing compound took 12 to 15 hours to cure and turned to a greenish color when it was fully dry. This fairing compound was then sanded to a smooth finish and then spray painted black.</p>
@@ -140,30 +145,31 @@ fabrication" /></a><script async="" src="//embedr.flickr.com/assets/client-code.
 
 <p><a><img style="float: left;" src="https://live.staticflickr.com/65535/51193887202_521475a42e_o.png" height="265" alt="51194800123_08104afebc_o" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
-<p>From there the team conducted research on the different possibilities for the UAV in this competition. These possibilities included Quadcopter, Hexacopters, and VTOLs. The final design choice was a quadcopter UAV, due to its versatility and size. The team had to meet certain <a href="https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf">design specifications</a> and a few to note were the UAV must be autonomous, positively buoyant, and there must be a kill switch. This led to the creation of the UAV located on the left. The Team decided that the main body would be DJI’s F450 Frame. To save on weight and add versatility to the system, custom plates were made out of carbon fiber. The main customization occurred with the enclosures, which were 3-D printed out of PLA and ABS to ensure that the electronics would be in enclosures designed for IP 34 standards. Also, to allow for the UAV to be positively buoyant, the team 3-D printed fasteners that would lock onto industrial backer rod, which was determined to allow the UAV to float in the water. For autonomy, the UAV is using the Pixhawk 4 autopilot controller and a Raspberry Pi 4 Model B to send a and receive MAVROS messages for control. Since the UAV is using the Pixhawk 4 and a companion computer, this allowed for the implementation of ROS on this system. Control messages, specifically <a href="http://wiki.ros.org/mavlink">MAVLink</a> messages, will be sent to the flight controller via <a href="http://wiki.ros.org/mavros">mavros</a>.</p>
+<p>From there the team conducted research on the different possibilities for the UAV in this competition. These possibilities included Quadcopter, Hexacopters, and VTOLs. The final design choice was a quadcopter UAV, due to its versatility and size. The team had to meet certain <a href="https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf">design specifications</a> and a few to note were the UAV must be fully autonomous, meet the measurement requirements and also be positively buoyant. This led to the creation of the UAV located on the left. The Team decided that the main body would be DJI’s F450 Frame. This frame was chosen due to it meeting all the measurement contraints. The measurement contraints were that the UAV and ASV must be no greater than 6 feet long, 3 fet wide, and 3 feet tall. As noted in the image below, the UAV addition to the ASV does in fact meet all of the measurement contraints to compete at this competition.</p>
 
-<p><br /></p>
+<p><a><img src="https://live.staticflickr.com/65535/51195996173_9dfcc570b1_o.png" height="260" alt="RoboBoat_Figures_Page_01" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
-<center>
+<p><a><img style="float: right;" src="https://live.staticflickr.com/65535/51196560939_28cda73f26_o.png" height="260" alt="RoboBoat_Figures_Page_03" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
-<a><img src="https://live.staticflickr.com/65535/51194797273_414859cfcf_o.png" height="260" alt="uav_fully_labeled" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a><img src="https://live.staticflickr.com/65535/51185160437_2f98841f58_o.jpg" height="260" alt="RoboBoat Testing - 14 May 2021 - 3" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-</center>
+<p>To save on weight and add versatility to the UAV, custom plates were made out of carbon fiber. The main customization occurred with the enclosures, which were 3-D printed out of PLA and ABS to ensure that the electronics would be in enclosures designed for IP 34 standards. Also, to allow for the UAV to be positively buoyant, the team 3-D printed fasteners that would lock onto industrial backer rod, which was determined to allow the UAV to float on the water. For autonomy, the UAV is using the Pixhawk 4 autopilot controller and a Raspberry Pi 4 Model B to send a and receive MAVROS messages for control. Since the UAV is using the Pixhawk 4 and a companion computer, this allowed for the implementation of ROS on this system. Control messages, specifically <a href="http://wiki.ros.org/mavlink">MAVLink</a> messages, will be sent to the flight controller via <a href="http://wiki.ros.org/mavros">mavros</a>. This UAV also has two different type of global positioning measurements incorporated for use. These are global positioning system (GPS) and real time kinematic (RTK) positioning. By being able to use more than one type of global positioning measurement, the system as a whole will be able to increase its precision and accuracy when moving. There is also an RC Reciever that allows for manual take over with an RC Transmitter.</p>
 
 <p><br />
 <br /></p>
 
+<p><a><img style="float: left;" src="https://live.staticflickr.com/65535/51196560909_4d1e4ed1a4_o.png" height="260" alt="RoboBoat_Figures_Page_02" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
 <p>As the UAV was being built, there were improvements being made to the ASV. First and foremost, the new electronics enclosure needed to be mounted to the ASV. So, some of the team took a weekend to cut all of the necessary fittings and install the enclosure onto the ASV. Once the new enclosure was mounted, all of the old electronics needed to be transferred from the old enclosure to the new enclosure. After that task was completed, the team decided to change all of its ZED stereo cameras for the new <a href="https://store.opencv.ai/products/oak-d">OAK-D</a> machine vision sensors that were obtained through the <a href="https://opencv.org/opencv-ai-competition-2021/">OAK-D AI Competition</a>. Once the two cameras were installed on the bow and stern of the ASV, the next thing to install was the Hokuyo Scanning Rangefinder on the stern ASV. The results of the installation can be seen below.</p>
+
+<p><br />
+<br />
+<br /></p>
 
 <center>
 
-<a><img src="https://live.staticflickr.com/65535/51186651194_e8b75abd76_o.jpg" height="260" alt="Development for RoboBoat 2021 - 10" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a><img src="https://live.staticflickr.com/65535/51186651194_e8b75abd76_o.jpg" height="260" alt="Development for 
+RoboBoat 2021 - 10" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a><img src="https://live.staticflickr.com/65535/51185178262_39de37da22_o.jpg" height="260" alt="Development for RoboBoat 2021 - 15" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a><img src="https://live.staticflickr.com/65535/51185870331_5f3c96df04_o.jpg" height="260" alt="Development for RoboBoat 2021 - 20" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
 
@@ -205,12 +211,6 @@ autonomous system? Tune in next year for future details as the content on this p
 <a><img src="https://live.staticflickr.com/65535/51195724505_6468e35a5b_o.jpg" height="260" alt="IMG_20210513_155919" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
-
-<!-- There will need to be a vimeo account set up for videos to take place -->
-<!-- Currently Flickr Account one can use to import content is:
-Username: C00023498@louisiana.edu
-Pas: CF2Yh66XURUUbzr
--->
 
 <!-- Dont Worry Brennan. I kept everything you had written before right here
 
@@ -295,8 +295,33 @@ Pas: CF2Yh66XURUUbzr
           <li class="p-name">RoboBoat 2021</li><li><a class="u-email" href="mailto:RoboBoat2021@CRAWLAB.org">RoboBoat2021@CRAWLAB.org</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.flickr.com/photos/CRAWLAB"><svg class="svg-icon"><use xlink:href="/RoboBoat-2021/assets/minima-social-icons.svg#flickr"></use></svg> <span class="username">CRAWLAB</span></a></li><li><a href="https://github.com/CRAWlab"><svg class="svg-icon"><use xlink:href="/RoboBoat-2021/assets/minima-social-icons.svg#github"></use></svg> <span class="username">CRAWlab</span></a></li></ul>
-</div>
+      <div class="footer-col footer-col-2">
+                
+              <a data-flickr-embed="true" href="https://twitter.com/Doc_Vaughan" title="twitter"><img 
+                src="https://live.staticflickr.com/65535/51196742350_abaccf38e8_o.png" height="30" alt="twitter"></a><script 
+                async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+                <br />
+
+              <a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/albums/72157715576359036" title="flickr"><img 
+                src="https://live.staticflickr.com/65535/51195675431_31a8d3ec9d_o.png" height="31" alt="flickr">
+                </a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              
+                <br />
+
+              <a data-flickr-embed="true" href="http://vimeo.com/docvaughan" title="vimeo"><img 
+                src="https://live.staticflickr.com/65535/51196742345_be0b1b74a0_o.png" height="30" alt="vimeo"></a><script 
+                async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+                <br />
+
+              <a data-flickr-embed="true" href="https://github.com/CRAWlab/RoboBoat-2021" title="github"><img 
+                src="https://live.staticflickr.com/65535/51195675421_2f18939756_o.png" height="31" alt="github"></a><script 
+                async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+                <br />
+      </div>
 
       <div class="footer-col footer-col-3">
         <p>2021 University of Louisiana at Lafayette RoboBoat Team&#39;s Website! It is an honor to be able to show off our work to all of you!</p>
