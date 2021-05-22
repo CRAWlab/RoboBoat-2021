@@ -5,50 +5,64 @@ permalink: /about/
 ---
 
 
-## UL Lafayette Ragin' Cajuns
+  <h1 style="text-align:center;"> History of UL Lafayette Ragin' Cajuns RoboBoat Team </h1>
 
+This year is the third year that ULL has participated in the RoboBoat Competition. The first year ULL competed was in 2019. This team was composed of a senior projects team and Dr. Vaughan. The senior projects team had focused up on created the ASV from scratch and they also made the ASV autonomous. This autonomus system was very basic and had a lot of room to imorve upon. The 2020 team decided to improve the autonomous system. The 2020 team was composed of a few graduate students, undergraduate students, and Dr. Vaughan. The 2020 team was unable to test the new research that had taken place due to COVID and time issues, but they left a great base for the 2021 team to use and take advantage of. 
 
-  <h3 style="text-align:center;"> Contact Information </h3>
+The ULL teams that have taken place for this RoboBoat Competition have all been under the [C.R.A.W.Lab](https://userweb.ucs.louisiana.edu/
+~jev9637/). The C.R.A.W.Lab has allowed students to take apart in research opportunities in controls as well as robotics. Dr. Vaughan is 
+the researcher incharge of this lab and he has been a big influnce in helping students understand more about automating systems. He is also 
+the origional faculty advisor for the ULL RoboBoat team. This year a few changes were made to this years team. Two new undergrads were 
+placed into this years competition and Ms. Qudsi was chosen to be a faculty advisor along with Dr. Vaughan. The team for the 2021 
+competition was mainly a group of undergrads, who were looking for a senior design project and as two of the four undergrads had been apart 
+of the ULL RoboBoat 2020 team, the team decided to take this competition on as thier senior project. There was a lot the team had to figure out and develop, but this website reflects our accomplishments and we do hope that you all enjoy seeing our progress and future development in this RoboBoat Competition. 
+
+Please see below for contact information and general inquiries.
+<br />
+<br />
+
+  <h1 style="text-align:center;"> Contact Information </h1>
 
   <h4 style="text-align:left;"><b>Dr. Joshua Vaughan</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="DocJV_Headshot"><img src="https://live.staticflickr.com/65535/51190842752_cfb54aa94d_q.jpg" width="150" height="150" alt="DocJV_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" height="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
 
-  - [C.R.A.W. LAB](https://userweb.ucs.louisiana.edu/~jev9637/)
   - [Dr. Vaughan - Louisiana Introduction Page](https://mechanical.louisiana.edu/node/155)
-  - [Github Page](https://github.com/DocVaughan)
-  - Any other links to add?
-  - Email: *joshua.vaughan@louisiana.edu*
+  - [C.R.A.W. LAB](https://userweb.ucs.louisiana.edu/~jev9637/)
+  - [Dr. Vaughan's Github Page](https://github.com/DocVaughan)
+  - <a href="mailto:joshua.vaughan@louisiana.edu">Dr. Vaughan's Email</a>
 
+<br />
+<br />
+<br />
+<br />
 <br />
 
   <h4 style="text-align:left;"><b>Ms. Yasmeen Qudsi</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Yasmeen_Headshot"><img src="https://live.staticflickr.com/65535/51191552461_d90d69228b_q.jpg" width="150" height="150" alt="Yasmeen_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" height="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
 
-  - Is this appropriate to use?
   - [Ms. Qudsi - Louisiana Introduction Page](https://mechanical.louisiana.edu/node/163)
-  - Any other links to add?
-  - Email: *yasmeen.qudsi@louisiana.edu*
+  - <a href="mailto:yasmeen.qudsi@louisiana.edu">Ms. Qudsi's Email</a>
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-- Talk about this being apart of the C.R.A.W. Lab and that our adivsors are Yasmeen and Dr. Vaughan?
-- Talk about this being the third year taking a part in the RoboBoat Competition?
-
-*More Coming soon...*
-
-## **For general inquiries:**
-<!-- modify this form HTML and place wherever you want your form -->
+  <h1 style="text-align:center;"> For general inquiries: </h1>
+<!-- Modify this to have the RoboBoat email attached to the recipient of the commands. You can just contact Ben W. and he can set it all up for you -->
 
 <center>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mjvjkqrw" method="post">

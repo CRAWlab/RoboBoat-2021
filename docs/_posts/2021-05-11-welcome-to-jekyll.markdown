@@ -16,21 +16,20 @@ off our progress throughout the past nine months, so please take a look and enjo
 
 
 <h2 style="text-align:center;">Meet the 2021 RoboBoat Team </h2>
-  <h3 style="text-align:center;"> Coaches </h3>
+  <h3 style="text-align:center;"> Faculty Advisors </h3>
 
 
 
-<p style="float:left;text-align:center; width: 30%; margin-right: 20%; margin-left: 
-10%">
+<p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 20%">
 	<strong style="text-align:center;"></strong><br>
-  <a title="DocJV_Headshot"><img src="https://live.staticflickr.com/65535/51190842752_cfb54aa94d_q.jpg" width="200" height="200" alt="DocJV_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" height="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <br />
-  Dr. Vaughan
+  Dr. Joshua Vaughan
 </p>
-<p style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 
+<p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 
 0%">
 	<strong style="text-align:center;"></strong><br>
-  <a title="Yasmeen_Headshot"><img src="https://live.staticflickr.com/65535/51191552461_d90d69228b_q.jpg" width="200" height="200" alt="Yasmeen_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" height="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <br />
   Ms. Yasmeen Qudsi
 </p>
@@ -75,26 +74,30 @@ node/163)
 <br />
 <br />
 <br />
+<br />
 
 
   <h3 style="text-align:center;"> Team Members </h3>
 
-  <h4 style="text-align:left;"><b>Joe: Team Captain</b></h4>
+  <h4 style="text-align:left;"><b>Joseph Stevens: Team Captain</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Joe_Headshot"><img src="https://live.staticflickr.com/65535/51191552431_e8c16eaa94_q.jpg" width="200" height="200" alt="Joe_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51195774750_5e4f2bac20_q.jpg" width="200" height="200" alt="JosephStevens"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
  
-  - Joe was responsible for leading this team. <!-- Please update for us -->
-  - Any links to add?
+  - Joe was responsible for leading this team. He also worked with Dr. Vaughan to create an enviorment of the RoboBoat Competioon Layout in Blender. From there Joe was able to take images of the Blender envornment and run them through an algorithm that would be able to identify the different colored buoys in the system. <!-- Please update for us -->
+
+
+  - [Joe's LinkedIn](https://www.linkedin.com/in/joseph-stevens-69b2a1206)
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
+
 
 
   <h4 style="text-align:left;"> <b> Brennan Moeller: Communications Director</b></h4>
@@ -112,27 +115,29 @@ node/163)
   
 <br />
 <br />
+<br />
+<br />
 
 
-  <h4 style="text-align:left;"> <b> Ben: Manufacturing Director</b></h4>
+  <h4 style="text-align:left;"> <b> Benjamin Willis: Manufacturing Director</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Ben_Headshot"><img src="https://live.staticflickr.com/65535/51191767903_2a55b4302c_q.jpg" width="200" height="200" alt="Ben_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  </div>
-
+<a ><img src="https://live.staticflickr.com/65535/51195783400_9487a2b32a_q.jpg" width="200" height="200" alt="50350092_00301_0161_Large"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 <br />
  
   - Ben was responsible for creating part files for the UAV. He was also resposible for inputting the UAV into simulation as well as testing the drone to make sure it works in both simulation and in real life. Finally, Ben was also responsible for creating this webpage from scratch.
 
-  - [Ben's LinkedIn](www.linkedin.com/in/BenjaminRWillis)
+
+  - [Ben's LinkedIn](https://linkedin.com/in/BenjaminRWillis)
 
 <br />
 <br />
 <br />
+<br />
+<br />
 
-
-
-  <h4 style="text-align:left;"> <b> Nathan: Navigation Director</b></h4>
+  <h4 style="text-align:left;"> <b> Nathan Madsen: Navigation Director</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
   <a title="Nathan_Headshot"><img src="https://live.staticflickr.com/65535/51190842782_decb7ac183_q.jpg" width="200" height="200" alt="Nathan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -142,9 +147,10 @@ node/163)
  
  <!-- Please update for us -->
   - Nathan was responsible for creating custom mounts for the LiDAR Lite and Raspberry Pi Camera. He also was responsible for collecting image data from the OAK-D Stereo camera.
-  - [Nathan's LinkedIn](www.linkedin.com/in/nathan-madsen-ab9aa01a9)
 
-<br />
+
+  - [Nathan's LinkedIn](https://linkedin.com/in/nathan-madsen-ab9aa01a9)
+
 <br />
 <br />
 <br />
@@ -154,14 +160,19 @@ node/163)
   <h4 style="text-align:left;"> <b> Adam Smith: Grad Student</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Adam_Headshot"><img src="https://live.staticflickr.com/65535/51192616025_1196e159dc_q.jpg" width="200" height="200" alt="Adam_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51194004312_0b885e1e9d_q.jpg" width="200" height="200" alt="1523566245209"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
  
  <!-- Please update for us -->
-  - Any links to add?
+  - Adam was the Graduate Student on this project. He specialized in understanding the way that the ASV actually moves in real time and where its faults are at that could be improved upon.
 
+
+  - [Adam's LinkedIn](https://www.linkedin.com/in/adam-smith-377694159)
+
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -171,12 +182,11 @@ node/163)
 <!-- Please add if there are other people involved in this years comp.   ### **Anyone 
 else?** -->
 
-  <h3 style="text-align:center;"> Design Documents </h3>
-
+  <h3 > Design Documents </h3> 
+  
   - [TDR]()
   - [Skills Video: Sensor Optimization]()
-  - [Skills Video: Power Management]()
   - [Demonstration Video]()
-  - [Gantt Chart](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/
-Senior%20Project%20Gantt_2021_04_19.xlsx)
+  - [Gantt Chart](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/Senior%20Project%20Gantt_2021_04_19.xlsx)
+
 

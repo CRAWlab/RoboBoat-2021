@@ -21,7 +21,7 @@
 title: RoboBoat 2021
 email: RoboBoat2021@CRAWLAB.org
 description: >- # this means to ignore newlines until "baseurl:"
-   2021 University of Louisiana at Lafayette RoboBoat Team's Website
+   2021 University of Louisiana at Lafayette RoboBoat Team's Website! It is an honor to be able to show off our work to all of you!
   
 baseurl: "/RoboBoat-2021" # the subpath of your site, e.g. /blog
 url: "https://crawlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
