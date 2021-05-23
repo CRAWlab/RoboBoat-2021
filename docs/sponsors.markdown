@@ -4,7 +4,7 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-Our team is honored that our sponsors have given us the ability to be apart of this competiton and continue with future development for this RoboBoat Competition. Please see below for the list of our sponsors for this years competition.
+Our team is honored that our sponsors have given us the ability to be apart of this competition and continue with future development for this RoboBoat Competition. Please see below for the list of our sponsors for this years competition.
 
 
 If you are interested in becoming a sponsor, please contact Dr. Joshua Vaughan or Ms. Yasmeen Qudsi through the contact information on our [About Page](https://crawlab.github.io/RoboBoat-2021/about/). 
