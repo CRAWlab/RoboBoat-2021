@@ -14,30 +14,6 @@ off our progress throughout the past nine months, so please take a look and enjo
 <!-- Meet the 2021 RoboBoat Team -->
 
 
-
-<h2 style="text-align:center;">Meet the 2021 RoboBoat Team </h2>
-  <h3 style="text-align:center;"> Faculty Advisors </h3>
-
-
-
-<p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 20%">
-	<strong style="text-align:center;"></strong><br>
-   <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" height="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <br />
-  Dr. Joshua Vaughan
-</p>
-<p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 
-0%">
-	<strong style="text-align:center;"></strong><br>
-  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" height="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  <br />
-  Ms. Yasmeen Qudsi
-</p>
-
-
-
-
-
 <!--
   ### **Dr. Joshua Vaughan**
       - Write about how he has guided this team to the success it is at and he has 
@@ -66,15 +42,6 @@ node/163)
 -->
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 
   <h3 style="text-align:center;"> Team Members </h3>
@@ -100,7 +67,7 @@ node/163)
 
 
 
-  <h4 style="text-align:left;"> <b> Brennan Moeller: Communications Director</b></h4>
+  <h4 style="text-align:left;"> <b> Brennan Moeller </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
  <a title="Brennan_Headshot"><img src="https://live.staticflickr.com/65535/51192322434_b15482af99_q.jpg" width="200" height="200" alt="Brennan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -119,7 +86,7 @@ node/163)
 <br />
 
 
-  <h4 style="text-align:left;"> <b> Benjamin Willis: Manufacturing Director</b></h4>
+  <h4 style="text-align:left;"> <b> Benjamin Willis </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
 <a ><img src="https://live.staticflickr.com/65535/51195783400_9487a2b32a_q.jpg" width="200" height="200" alt="50350092_00301_0161_Large"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -137,7 +104,7 @@ node/163)
 <br />
 <br />
 
-  <h4 style="text-align:left;"> <b> Nathan Madsen: Navigation Director</b></h4>
+  <h4 style="text-align:left;"> <b> Nathan Madsen </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
   <a title="Nathan_Headshot"><img src="https://live.staticflickr.com/65535/51190842782_decb7ac183_q.jpg" width="200" height="200" alt="Nathan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -157,7 +124,7 @@ node/163)
 <br />
 <br />
 
-  <h4 style="text-align:left;"> <b> Adam Smith: Grad Student</b></h4>
+  <h4 style="text-align:left;"> <b> Adam Smith </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
   <a ><img src="https://live.staticflickr.com/65535/51194004312_0b885e1e9d_q.jpg" width="200" height="200" alt="1523566245209"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -177,12 +144,46 @@ node/163)
 <br />
 <br />
 <br />
+
+
+
+<h2 style="text-align:center;">Meet the 2021 RoboBoat Team </h2>
+  <h3 style="text-align:center;"> Faculty Advisors </h3>
+
+
+
+<p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 20%">
+	<strong style="text-align:center;"></strong><br>
+   <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" height="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <br />
+  Dr. Joshua Vaughan
+</p>
+<p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 
+0%">
+	<strong style="text-align:center;"></strong><br>
+  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" height="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <br />
+  Ms. Yasmeen Qudsi
+</p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 <!-- Please add if there are other people involved in this years comp.   ### **Anyone 
 else?** -->
 
-<h3 > ULL 2021 RoboBoat Competition Details </h3> 
+<h3 > UL Lafayette 2021 RoboBoat Competition Details </h3> 
 
  - [TDR]()
  - [Skills Video: Sensor Optimization]()
