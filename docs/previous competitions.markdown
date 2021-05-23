@@ -8,7 +8,7 @@ permalink: /previous competitions/
 <a ><img style="float: right;" src="https://live.staticflickr.com/65535/48117409408_33a10029bf_o.jpg" width="720" height="500" alt="2019 
 RoboBoat Manufacturing Award"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### ULL RoboBoat 2020 Competiton Details
+### ULL RoboBoat 2020 Competitions Details
   - [TDR](https://crawlab.github.io/RoboBoat-2020/RoboBoat2020_TDR.pdf)
   - [Team Video](https://www.youtube.com/watch?v=4ydxaT9xY8g&list=PLKxxEmtsYTkSW_woiazta4Rid7sNQkOxj&index=6)
   - [Flicker Album](https://www.flickr.com/photos/crawlab/sets/72157709882895992/)
