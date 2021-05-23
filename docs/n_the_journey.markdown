@@ -25,7 +25,7 @@ fabrication"></a><script async src="//embedr.flickr.com/assets/client-code.js" c
 
 <br />
 
-<a ><img style="float: left;" src="https://live.staticflickr.com/65535/51195996661_f4a9022b79_o.png" width="425" alt="Thrusters"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a ><img src="https://live.staticflickr.com/65535/51197901767_3190dbea6b_o.png" width="425" alt="thrusters"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 After the hull and bridge were coated for marine use, they were assembled and the electronics were installed. The first of the many electronics to be installed on the system, were the four Blue Robotics T-200 Thrusters. These thrusters were positioned on the ASV in an "X"-configuration to allow for holonomic motion, which allows for pure surge, sway, and yaw movement, as seen in the video below. Due to the pure surge, sway, and yaw movement, this boat is able to make tight turns as well as move directly left or right without the need to move forward or backwards such as a standard boat. This setup allows the ASV to parallel park easier than a traditional boat, and it allows for quicker movements around buoys, which is a big advantage for this competition. In the video below, a demonstration is presented on how this boat maneuvers in the water. Also, this video shows the very first time this ASV touched the water and moved under its own power!
 
@@ -176,7 +176,7 @@ This is as far as the team was able to progress until a drastic turn occurred...
 
 <center>
 
-<a ><img src="https://live.staticflickr.com/65535/51195724505_6468e35a5b_o.jpg" height="260" alt="IMG_20210513_155919"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a ><img src="https://live.staticflickr.com/65535/51198815173_4c78efe4ee_o.png" height="260" alt="Hull Damage"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
 
