@@ -182,7 +182,7 @@ node/163)
 <!-- Please add if there are other people involved in this years comp.   ### **Anyone 
 else?** -->
 
-<h3 > ULL 2021 RoboBoat Competition Details </h3> 
+<h3 > UL Lafayette 2021 RoboBoat Competition Details </h3> 
 
  - [TDR]()
  - [Skills Video: Sensor Optimization]()
