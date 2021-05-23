@@ -187,8 +187,9 @@ else?** -->
  - [TDR]()
  - [Skills Video: Sensor Optimization]()
  - [Demonstration Video]()
+ - [Team Poster](../files/MCHE_484_Final_Poster.pdf)
  - [Flickr](https://www.flickr.com/photos/crawlab/albums/72157715576359036/with/51186939985/)
- - [Gihub Repository](https://github.com/CRAWlab/RoboBoat-2021)
+ - [GitHub Repository](https://github.com/CRAWlab/RoboBoat-2021)
  - [Vimeo](https://vimeo.com/channels/ullafayetteroboboat)
- - [Team Poster](https://github.com/CRAWlab/RoboBoat-2021/tree/master/docs/files/MCHE_484_Final_Poster.pdf)
+
 
