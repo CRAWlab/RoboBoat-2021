@@ -39,7 +39,7 @@ Please see below for contact information and general inquiries.
   <h4 style="text-align:left;"><b>Dr. Joshua Vaughan</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" height="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" height="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
@@ -58,7 +58,7 @@ Please see below for contact information and general inquiries.
   <h4 style="text-align:left;"><b>Ms. Yasmeen Qudsi</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" height="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" height="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />

@@ -1,54 +1,10 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>The Journey | RoboBoat 2021</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="The Journey" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="2021 University of Louisiana at Lafayette RoboBoat Team’s Website! It is an honor to be able to show off our work to all of you!" />
-<meta property="og:description" content="2021 University of Louisiana at Lafayette RoboBoat Team’s Website! It is an honor to be able to show off our work to all of you!" />
-<link rel="canonical" href="https://crawlab.github.io/RoboBoat-2021/The%20Jouney/" />
-<meta property="og:url" content="https://crawlab.github.io/RoboBoat-2021/The%20Jouney/" />
-<meta property="og:site_name" content="RoboBoat 2021" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="The Journey" />
-<script type="application/ld+json">
-{"headline":"The Journey","@type":"WebPage","url":"https://crawlab.github.io/RoboBoat-2021/The%20Jouney/","description":"2021 University of Louisiana at Lafayette RoboBoat Team’s Website! It is an honor to be able to show off our work to all of you!","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/RoboBoat-2021/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://crawlab.github.io/RoboBoat-2021/feed.xml" title="RoboBoat 2021" /></head>
-<body><header class="site-header" role="banner">
-
-  <div class="wrapper"><a class="site-title" rel="author" href="/RoboBoat-2021/">RoboBoat 2021</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger"><a class="page-link" href="/RoboBoat-2021/about%20us/">About Us</a><a class="page-link" href="/RoboBoat-2021/Meet%20the%20Team/">Meet the Team</a><a class="page-link" href="/RoboBoat-2021/The%20Jouney/">The Journey</a><a class="page-link" href="/RoboBoat-2021/previous%20competitions/">Previous Competitions</a><a class="page-link" href="/RoboBoat-2021/sponsors/">Sponsors</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">The Journey</h1>
-  </header>
-
-  <div class="post-content">
-    <!-- There will need to be a vimeo account set up for videos to take place -->
+I"�[<!-- There will need to be a vimeo account set up for videos to take place -->
 <!-- Currently Flickr Account one can use to import content is:
 Username: C00023498@louisiana.edu
 Pas: CF2Yh66XURUUbzr
 -->
 
-<p><a><img style="float: right;" src="https://live.staticflickr.com/65535/48135447492_981e7ced31_o.jpg" height="260" alt="2019 International RoboBoat Competition - 109" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> In August of 2018, a group of 4 undergraduate students set out to compete in the RoboBoat 2019 Competition with the help from their advisor, Dr. Vaughan. This team developed the Autonomous Surface Vessel (ASV) from scratch. This ASV had to follow specific <a href="https://robonation.org/app/uploads/sites/3/2019/10/RoboBoat-2019-Rules-and-Task-Description_v2.pdf">guidelines</a> given by <a href="https://robonation.org/">RoboNation</a> and a few items to note from these guidelines is that the ASV must be autonomous, configured with an E-Stop, and have the electronics protected from water. It must float in water and be propelled by the teams choice of actuation. The UL Lafayette 2019 RoboBoat Team decided to go a different route than most other teams, which was to create a pontoon boat with thrusters in an “X”-configuration enabling holonomic motion. The materials used to build the hull for the ASV was foam, adhesive, epoxy, fiberglass, and paint. The foam was cut into planar shapes by hand with a hot wire foam cutter, which were then glued together and sanded to form a pontoon’s hull structure. From there, the team prepared the hull  to marry the bridge, which holds the pontoon stable as it is moves in the water. 
+<p><a><img src="https://live.staticflickr.com/7866/47467540581_a5b655cda6_o.jpg" height="260" alt="RoboBoat hull fabrication" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> In August of 2018, a group of 4 undergraduate students set out to compete in the RoboBoat 2019 Competition with the help from their advisor, Dr. Vaughan. This team developed the Autonomous Surface Vessel (ASV) from scratch. This ASV had to follow specific <a href="https://robonation.org/app/uploads/sites/3/2019/10/RoboBoat-2019-Rules-and-Task-Description_v2.pdf">guidelines</a> given by <a href="https://robonation.org/">RoboNation</a> and a few items to note from these guidelines is that the ASV must be autonomous, configured with an E-Stop, and have the electronics protected from water. It must float in water and be propelled by the teams choice of actuation. The UL Lafayette 2019 RoboBoat Team decided to go a different route than most other teams, which was to create a pontoon boat with thrusters in an “X”-configuration enabling holonomic motion. The materials used to build the hull for the ASV was foam, adhesive, epoxy, fiberglass, and paint. The foam was cut into planar shapes by hand with a hot wire foam cutter, which were then glued together and sanded to form a pontoon’s hull structure. From there, the team prepared the hull  to marry the bridge, which holds the pontoon stable as it is moves in the water. 
 <br /></p>
 
 <p>The preparation that was completed was adding a first layer of epoxy to both the hull and the bridge, which would take 18 to 24 hours to cure. Next, was laying fiberglass sheets on top of the epoxy. This was completed by adding an inner and outer layer of fiberglass right on top of each other. A final layer of epoxy was added on top of the fiberglass, which then was left to cure for 18 to 24 hours. After that, a fairing compound was used, which was laid over the epoxy to seal the pores of the materials so the ASV can be used as a marine vessel. This fairing compound took 12 to 15 hours to cure and turned to a greenish color when it was fully dry. This fairing compound was then sanded to a smooth finish and then spray painted black.</p>
@@ -204,7 +160,7 @@ script&gt;</script></p>
 <br /></p>
 
 <!-- Honestly I would be exceedinly surprised if anyone is reading this, so if you are all I can say is thank you for helping me out because I am literally clueless on what I am doing for this website. I just hope its a good website to the judges -->
-<p>This is as far as the team was able to progress until a drastic turn occurred… one of the ASV’s thrusters hit the hull during a small impact, which cracked the fiberglass. Unfortunately, the team is currently at a standstill until the problem is fixed. The team has looked into the possibilities for this fix and were able to determine that this crack in the fibrglass can be patched. Due to the fact that this hull can be repaired, it will allow for future teams to use this same hull and bridge design.</p>
+<p>This is as far as the team was able to progress until a drastic turn occurred… one of the ASV’s thrusters hit the hull during a small impact, which cracked the fiberglass. Unfortunately the team is currently at a standstill until this problem gets fixed and due to time the current team has been unable to determine the significance of this damage. This is a problem that will have to be diagnosed by the next UL Lafayette RoboBoat team and either a patch can be made or a new hull will be bought, or created.</p>
 
 <center>
 
@@ -276,60 +232,4 @@ script&gt;</script></p>
 
 -->
 
-
-  </div>
-
-</article>
-
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/RoboBoat-2021/"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">RoboBoat 2021</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">RoboBoat 2021</li><li><a class="u-email" href="mailto:RoboBoat2021@CRAWLAB.org">RoboBoat2021@CRAWLAB.org</a></li></ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-
-              <a data-flickr-embed="true" href="https://twitter.com/Doc_Vaughan" title="twitter"><img 
-                src="https://live.staticflickr.com/65535/51195285467_22d7424e6a_o.png" height="30" alt="twitter"></a><script 
-                async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-                <br />
-
-              <a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/albums/72157715576359036" title="flickr"><img 
-                src="https://live.staticflickr.com/65535/51196773979_19dcd87ed8_o.png" height="31" alt="flickr">
-                </a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-                <br />
-
-              <a data-flickr-embed="true" href="http://vimeo.com/docvaughan" title="vimeo"><img 
-                src="https://live.staticflickr.com/65535/51196774384_e5fd140ce1_o.png" height="30" alt="vimeo"></a><script 
-                async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-                <br />
-
-              <a data-flickr-embed="true" href="https://github.com/CRAWlab/RoboBoat-2021" title="github"><img 
-                src="https://live.staticflickr.com/65535/51196773974_5b54055fa9_o.png" height="31" alt="github"></a><script 
-                async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-                <br />
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>2021 University of Louisiana at Lafayette RoboBoat Team&#39;s Website! It is an honor to be able to show off our work to all of you!</p>
-      </div>
-    </div>
-
-  </div>
-
-</footer>
-</body>
-
-</html>
+:ET

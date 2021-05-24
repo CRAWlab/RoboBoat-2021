@@ -51,7 +51,7 @@ node/163)
   <h4 style="text-align:left;"><b>Joseph Stevens: Team Captain</b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a ><img src="https://live.staticflickr.com/65535/51195774750_5e4f2bac20_q.jpg" width="200" height="200" alt="JosephStevens"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51195774750_5e4f2bac20_q.jpg" height="200" alt="JosephStevens"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
@@ -72,7 +72,7 @@ node/163)
   <h4 style="text-align:left;"> <b> Brennan Moeller </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
- <a title="Brennan_Headshot"><img src="https://live.staticflickr.com/65535/51192322434_b15482af99_q.jpg" width="200" height="200" alt="Brennan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ <a title="Brennan_Headshot"><img src="https://live.staticflickr.com/65535/51192322434_b15482af99_q.jpg" height="200" alt="Brennan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
@@ -91,7 +91,7 @@ node/163)
   <h4 style="text-align:left;"> <b> Benjamin Willis </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-<a ><img src="https://live.staticflickr.com/65535/51195783400_9487a2b32a_q.jpg" width="200" height="200" alt="50350092_00301_0161_Large"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a ><img src="https://live.staticflickr.com/65535/51195783400_9487a2b32a_q.jpg" height="200" alt="50350092_00301_0161_Large"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <br />
  
@@ -109,7 +109,7 @@ node/163)
   <h4 style="text-align:left;"> <b> Nathan Madsen </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a title="Nathan_Headshot"><img src="https://live.staticflickr.com/65535/51190842782_decb7ac183_q.jpg" width="200" height="200" alt="Nathan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a title="Nathan_Headshot"><img src="https://live.staticflickr.com/65535/51190842782_decb7ac183_q.jpg" height="200" alt="Nathan_Headshot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   </div>
 
 <br />
@@ -129,7 +129,7 @@ node/163)
   <h4 style="text-align:left;"> <b> Adam Smith </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-<a ><img src="https://live.staticflickr.com/65535/51199462984_ac86c6f895_o.jpg" width="200" height="200" alt="DSC_4279(1)"></a><script 
+<a ><img src="https://live.staticflickr.com/65535/51199462984_ac86c6f895_o.jpg" height="200" alt="DSC_4279(1)"></a><script 
 async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
   </div>
