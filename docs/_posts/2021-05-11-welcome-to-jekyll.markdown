@@ -127,8 +127,11 @@ node/163)
   <h4 style="text-align:left;"> <b> Adam Smith </b></h4>
 
   <div style="float:left; padding:25px; margin-left:0px;">
-  <a ><img src="https://live.staticflickr.com/65535/51194004312_0b885e1e9d_q.jpg" width="200" height="200" alt="1523566245209"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a ><img src="https://live.staticflickr.com/65535/51199462984_ac86c6f895_o.jpg" width="200" height="200" alt="DSC_4279(1)"></a><script 
+async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
   </div>
+
 
 <br />
  
