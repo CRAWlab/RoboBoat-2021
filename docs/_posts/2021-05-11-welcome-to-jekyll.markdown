@@ -43,6 +43,8 @@ node/163)
 <br />
 <br />
 
+<h1 style="text-align:center;">Meet the 2021 RoboBoat Team </h1>
+
 
   <h3 style="text-align:center;"> Team Members </h3>
 
@@ -150,7 +152,6 @@ async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
-<h2 style="text-align:center;">Meet the 2021 RoboBoat Team </h2>
   <h3 style="text-align:center;"> Faculty Advisors </h3>
 
 

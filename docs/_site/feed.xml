@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://crawlab.github.io/RoboBoat-2021/feed.xml" rel="self" type="application/atom+xml" /><link href="https://crawlab.github.io/RoboBoat-2021/" rel="alternate" type="text/html" /><updated>2021-05-23T19:06:46-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/feed.xml</id><title type="html">RoboBoat 2021</title><subtitle>2021 University of Louisiana at Lafayette RoboBoat Team's Website! It is an honor to be able to show off our work to all of you!</subtitle><entry><title type="html">Meet the Team</title><link href="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/" rel="alternate" type="text/html" title="Meet the Team" /><published>2021-05-11T00:00:00-05:00</published><updated>2021-05-11T00:00:00-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/welcome-to-jekyll</id><content type="html" xml:base="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/">&lt;h1 style=&quot;text-align:center;&quot;&gt; 2021 UL Lafayette Ragin' Cajuns RoboBoat &lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://crawlab.github.io/RoboBoat-2021/feed.xml" rel="self" type="application/atom+xml" /><link href="https://crawlab.github.io/RoboBoat-2021/" rel="alternate" type="text/html" /><updated>2021-05-23T20:37:12-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/feed.xml</id><title type="html">RoboBoat 2021</title><subtitle>2021 University of Louisiana at Lafayette RoboBoat Team's Website! It is an honor to be able to show off our work to all of you!</subtitle><entry><title type="html">Meet the Team</title><link href="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/" rel="alternate" type="text/html" title="Meet the Team" /><published>2021-05-11T00:00:00-05:00</published><updated>2021-05-11T00:00:00-05:00</updated><id>https://crawlab.github.io/RoboBoat-2021/welcome-to-jekyll</id><content type="html" xml:base="https://crawlab.github.io/RoboBoat-2021/Meet%20the%20Team/">&lt;h1 style=&quot;text-align:center;&quot;&gt; 2021 UL Lafayette Ragin' Cajuns RoboBoat &lt;/h1&gt;
 
 &lt;p&gt;Welcome to the &lt;a href=&quot;https://louisiana.edu&quot;&gt;University of Louisiana at Lafayette’s&lt;/a&gt; entry 
 into the &lt;a href=&quot;https://roboboat.org/programs/2021/&quot;&gt;2021 RoboBoat Competition&lt;/a&gt;. This is 
@@ -36,6 +36,8 @@ node/163)
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
+&lt;h1 style=&quot;text-align:center;&quot;&gt;Meet the 2021 RoboBoat Team &lt;/h1&gt;
+
 &lt;h3 style=&quot;text-align:center;&quot;&gt; Team Members &lt;/h3&gt;
 
 &lt;h4 style=&quot;text-align:left;&quot;&gt;&lt;b&gt;Joseph Stevens: Team Captain&lt;/b&gt;&lt;/h4&gt;
@@ -48,7 +50,7 @@ node/163)
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Joe was responsible for leading this team. He also worked with Dr. Vaughan to create an enviorment of the RoboBoat Competioon Layout in Blender. From there Joe was able to take images of the Blender envornment and run them through an algorithm that would be able to identify the different colored buoys in the system. &lt;!-- Please update for us --&gt;&lt;/p&gt;
+    &lt;p&gt;Joe was responsible for leading this team. He also worked with Dr. Vaughan to create an enviorment of the RoboBoat Competition Layout in Blender. From there Joe was able to take images of the Blender envornment and run them through an algorithm that would be able to identify the different colored buoys in the system. &lt;!-- Please update for us --&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/joseph-stevens-69b2a1206&quot;&gt;Joe’s LinkedIn&lt;/a&gt;
@@ -155,19 +157,18 @@ node/163)
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 style=&quot;text-align:center;&quot;&gt;Meet the 2021 RoboBoat Team &lt;/h2&gt;
 &lt;h3 style=&quot;text-align:center;&quot;&gt; Faculty Advisors &lt;/h3&gt;
 
 &lt;p style=&quot;float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 20%&quot;&gt;
 	&lt;strong style=&quot;text-align:center;&quot;&gt;&lt;/strong&gt;&lt;br /&gt;
-   &lt;a&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg&quot; width=&quot;200&quot; height=&quot;200&quot; alt=&quot;JoshuaVaughan-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+   &lt;a&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg&quot; width=&quot;200&quot; alt=&quot;JoshuaVaughan-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
   &lt;br /&gt;
   Dr. Joshua Vaughan
 &lt;/p&gt;
 &lt;p style=&quot;float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 
 0%&quot;&gt;
 	&lt;strong style=&quot;text-align:center;&quot;&gt;&lt;/strong&gt;&lt;br /&gt;
-  &lt;a&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg&quot; width=&quot;200&quot; height=&quot;200&quot; alt=&quot;Qudsi-Yasmeen-MCHE-web&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;a&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg&quot; width=&quot;200&quot; alt=&quot;Qudsi-Yasmeen-MCHE-web&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
   &lt;br /&gt;
   Ms. Yasmeen Qudsi
 &lt;/p&gt;

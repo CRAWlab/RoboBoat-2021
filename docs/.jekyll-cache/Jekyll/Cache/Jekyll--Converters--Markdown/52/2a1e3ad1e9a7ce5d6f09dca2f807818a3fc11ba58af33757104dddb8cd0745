@@ -1,4 +1,4 @@
-I"b<h1 style="text-align:center;"> 2021 UL Lafayette Ragin' Cajuns RoboBoat </h1>
+I"J<h1 style="text-align:center;"> 2021 UL Lafayette Ragin' Cajuns RoboBoat </h1>
 
 <p>Welcome to the <a href="https://louisiana.edu">University of Louisiana at Lafayette’s</a> entry 
 into the <a href="https://roboboat.org/programs/2021/">2021 RoboBoat Competition</a>. This is 
@@ -36,6 +36,8 @@ node/163)
 <p><br />
 <br /></p>
 
+<h1 style="text-align:center;">Meet the 2021 RoboBoat Team </h1>
+
 <h3 style="text-align:center;"> Team Members </h3>
 
 <h4 style="text-align:left;"><b>Joseph Stevens: Team Captain</b></h4>
@@ -48,7 +50,7 @@ node/163)
 
 <ul>
   <li>
-    <p>Joe was responsible for leading this team. He also worked with Dr. Vaughan to create an enviorment of the RoboBoat Competioon Layout in Blender. From there Joe was able to take images of the Blender envornment and run them through an algorithm that would be able to identify the different colored buoys in the system. <!-- Please update for us --></p>
+    <p>Joe was responsible for leading this team. He also worked with Dr. Vaughan to create an enviorment of the RoboBoat Competition Layout in Blender. From there Joe was able to take images of the Blender envornment and run them through an algorithm that would be able to identify the different colored buoys in the system. <!-- Please update for us --></p>
   </li>
   <li>
     <p><a href="https://www.linkedin.com/in/joseph-stevens-69b2a1206">Joe’s LinkedIn</a>
@@ -155,19 +157,18 @@ node/163)
 <br />
 <br /></p>
 
-<h2 style="text-align:center;">Meet the 2021 RoboBoat Team </h2>
 <h3 style="text-align:center;"> Faculty Advisors </h3>
 
 <p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 20%">
 	<strong style="text-align:center;"></strong><br />
-   <a><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" height="200" alt="JoshuaVaughan-2" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <a><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" alt="JoshuaVaughan-2" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <br />
   Dr. Joshua Vaughan
 </p>
 <p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 
 0%">
 	<strong style="text-align:center;"></strong><br />
-  <a><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" height="200" alt="Qudsi-Yasmeen-MCHE-web" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" alt="Qudsi-Yasmeen-MCHE-web" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <br />
   Ms. Yasmeen Qudsi
 </p>
