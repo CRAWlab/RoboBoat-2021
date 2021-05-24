@@ -5,7 +5,7 @@ permalink: /previous competitions/
 ---
 
 
-<a ><img style="float: right;" src="https://live.staticflickr.com/65535/48117409408_33a10029bf_o.jpg" width="720" height="500" alt="2019 
+<a ><img style="float: right;" src="https://live.staticflickr.com/65535/48117409408_33a10029bf_o.jpg" width="720" alt="2019 
 RoboBoat Manufacturing Award"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### UL Lafayette RoboBoat 2020 Competitions Details

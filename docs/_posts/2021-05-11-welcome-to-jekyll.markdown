@@ -54,7 +54,7 @@ node/163)
 
 <br />
  
-  - Joe was responsible for leading this team. He also worked with Dr. Vaughan to create an enviorment of the RoboBoat Competioon Layout in Blender. From there Joe was able to take images of the Blender envornment and run them through an algorithm that would be able to identify the different colored buoys in the system. <!-- Please update for us -->
+  - Joe was responsible for leading this team. He also worked with Dr. Vaughan to create an enviorment of the RoboBoat Competition Layout in Blender. From there Joe was able to take images of the Blender envornment and run them through an algorithm that would be able to identify the different colored buoys in the system. <!-- Please update for us -->
 
 
   - [Joe's LinkedIn](https://www.linkedin.com/in/joseph-stevens-69b2a1206)
@@ -157,14 +157,14 @@ async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 20%">
 	<strong style="text-align:center;"></strong><br>
-   <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" height="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <a ><img src="https://live.staticflickr.com/65535/51194004307_586a063fbc_q.jpg" width="200" alt="JoshuaVaughan-2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <br />
   Dr. Joshua Vaughan
 </p>
 <p style="float:left;text-align:center; width: 30%; margin-right: 0%; margin-left: 
 0%">
 	<strong style="text-align:center;"></strong><br>
-  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" height="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a ><img src="https://live.staticflickr.com/65535/51195482879_bc88271010_q.jpg" width="200" alt="Qudsi-Yasmeen-MCHE-web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   <br />
   Ms. Yasmeen Qudsi
 </p>
